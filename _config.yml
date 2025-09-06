@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Guido Salustri"
   avatar : "/assets/images/cacharro.png"
-  bio    : "I make games; games make me.<br><br>  &lt;null null null&gt;."
+  bio    : "I make games; games make me.<br><br>&lt;null null null&gt;"
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
