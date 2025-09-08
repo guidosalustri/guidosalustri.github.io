@@ -4,8 +4,8 @@ title: "The Last Vampire"
 ---
 
 <p align="center">
-  <img src="../assets/images/las_award.png" width="90%" style="border:3px solid grey; margin:10px;">
-  <img src="../assets/images/las_overview.png" width="90%" style="border:3px solid grey; margin:10px;">
+  <img src="../assets/images/las_award.png" width="30%" style="border:3px solid black; margin:10px;">
+  <img src="../assets/images/las_overview.png" width="30%" style="border:3px solid black; margin:10px;">
   <br>
   <sub><i>Figure 1: Left diagram</i></sub> &nbsp;&nbsp;&nbsp;
   <sub><i>Figure 2: Right diagram</i></sub>
