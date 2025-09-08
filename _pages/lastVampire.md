@@ -4,11 +4,10 @@ title: "The Last Vampire"
 ---
 
 <p align="center">
-  <img src="../assets/images/las_award.png" width="30%" style="border:3px solid black; margin:10px;">
-  <img src="../assets/images/las_overview.png" width="30%" style="border:3px solid black; margin:10px;">
   <br>
-  <sub><i>Figure 1: Left diagram</i></sub> &nbsp;&nbsp;&nbsp;
-  <sub><i>Figure 2: Right diagram</i></sub>
+  <img src="../assets/images/las_award.png" width="50%" style="border:2px solid black; margin:5px;">
+  <img src="../assets/images/las_overview.png" width="50%" style="border:2px solid black; margin:5px;">
+  <br>
 </p>
 
 Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
