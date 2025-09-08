@@ -5,8 +5,8 @@ title: "The Last Vampire"
 
 <p align="center">
   <br>
-  <img src="../assets/images/las_award.png" width="50%" style="border:2px solid black; margin:5px;">
-  <img src="../assets/images/las_overview.png" width="50%" style="border:2px solid black; margin:5px;">
+  <img src="../assets/images/las_award.png" width="45%" style="border:2px solid black; margin:5px;">
+  <img src="../assets/images/las_overview.png" width="45%" style="border:2px solid black; margin:5px;">
   <br>
 </p>
 
