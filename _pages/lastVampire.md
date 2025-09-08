@@ -4,7 +4,7 @@ title: "The Last Vampire"
 ---
 
 <p align="center">
-  <img src="assets/images/essom2.png" width="90%" style="border:3px solid grey;">
+  <img src="../assets/images/essom2.png" width="90%" style="border:3px solid grey;">
   <br>
   <sub><i>“Even when Buried, Memory Grows.”</i></sub>
 </p>
