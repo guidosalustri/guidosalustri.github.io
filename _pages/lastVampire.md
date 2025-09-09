@@ -18,7 +18,7 @@ Funny to think that, without even noticing, we hit on one of game design’s gol
 
 <p align="center">🩸🩸🩸🩸</p>
 
-The Last Vampire won Best Game Design at the Gotland Game Conference 2024 and was also nominated for Best in Show. Thanks to this recognition, we received funding that will allow us to take the game to Spiel Essen 2025. Although the game is especially fun in its analog version, a Steam Workshop on Tabletop Simulator is also available, showcasing a digital adaptation of the game. Furthermore, it has been used as a case study for research in both psychology and game design by Uppsala University. Publications can be found [here].
+The Last Vampire won Best Game Design at the Gotland Game Conference 2024 and was also nominated for Best in Show. Thanks to this recognition, we received funding that will allow us to take the game to Spiel Essen 2025. Although the game is especially fun in its analog version, a [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3551316320 "Visit the Steam Workshop") on Tabletop Simulator is also available, showcasing a digital adaptation of the game. Furthermore, it has been used as a case study for research in both psychology and game design by Uppsala University. Publications can be found [here].
 
 rulebook pdf]
 
