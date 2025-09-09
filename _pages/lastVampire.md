@@ -20,7 +20,12 @@ Funny to think that, without even noticing, we hit on one of game design’s gol
 
 The Last Vampire won [Best Game Design](https://game.speldesign.uu.se/projects/analog-games/the-last-vampire/) at the Gotland Game Conference 2024 and was also nominated for Best in Show. Thanks to this recognition, we received funding that will allow us to take the game to Spiel Essen 2025. Although the game is especially fun in its analog version, a [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3551316320 "Visit the Steam Workshop") on Tabletop Simulator is also available, showcasing a digital adaptation of the game. Furthermore, it has been used as a case study for research in both psychology and game design by Uppsala University. Publications can be found [here](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1874280&dswid=-253 "Visit DiVA").
 
-<iframe src="https://drive.google.com/file/d/1DIjEQL46iLtv-yWAjoD9MBq4nvIJfo9f/preview" width="660" height="540" allow="autoplay"></iframe>
+  <p align="center">
+    <iframe src="https://drive.google.com/file/d/1DIjEQL46iLtv-yWAjoD9MBq4nvIJfo9f/preview" width="660" height="740" allow="autoplay"></iframe>
+    <br>
+    <sub><i>“Rulebook.”</i></sub>
+  </p>
+
 
 From a design perspective, The Last Vampire tackles crucial aspects of social deduction games. A key feature is that the focus is not put on roles, but on items instead. This simple shift not only distributes agency more evenly among players but also allows agency to shift throughout gameplay, something that fixed roles cannot offer.
 
