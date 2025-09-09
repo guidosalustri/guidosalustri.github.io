@@ -21,8 +21,7 @@ Funny to think that, without even noticing, we hit on one of game design’s gol
 The Last Vampire won [Best Game Design](https://game.speldesign.uu.se/projects/analog-games/the-last-vampire/) at the Gotland Game Conference 2024 and was also nominated for Best in Show. Thanks to this recognition, we received funding that will allow us to take the game to Spiel Essen 2025. Although the game is especially fun in its analog version, a [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3551316320 "Visit the Steam Workshop") on Tabletop Simulator is also available, showcasing a digital adaptation of the game. Furthermore, it has been used as a case study for research in both psychology and game design by Uppsala University. Publications can be found [here](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1874280&dswid=-253 "Visit DiVA").
 
   <p align="center">
-    <br>
-    <iframe src="https://drive.google.com/file/d/1DIjEQL46iLtv-yWAjoD9MBq4nvIJfo9f/preview" width="640" height="720" allow="autoplay"></iframe>
+    <iframe src="https://drive.google.com/file/d/1DIjEQL46iLtv-yWAjoD9MBq4nvIJfo9f/preview" width="80%" allow="autoplay"></iframe>
     <br>
   </p>
 
