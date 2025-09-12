@@ -8,7 +8,7 @@ author_profile: true
 
 Bla Bla Blaaaa
 
-## Projects
+# Projects
 - ### The Last Vampire
   [The Last Vampire](https://guidosalustri.github.io/lastvampire/) is an award winning social deduction board game where players must navigate deception, manage scarce blood resources and outwit their foes to survive. It's available in analog and digital formats, and it's been used as a case study for research both in psychology and game design.
   <br>
@@ -20,6 +20,6 @@ Bla Bla Blaaaa
     <br>
     <sub><i>“Even when Buried, Memory Grows.”</i></sub>
   </p>
-  Essom is an award winning abstract strategy game for two players (1v1). It aims to match aesthetically classical games, yet keeping gameplay somewhat more casual and allowing players to bluff. Although there is a story embedded in its mechanics the game can also be enjoyed by neglecting its meaning all together. The original version of the game is crafted in ceramic and wood and the game is also available in digital format.
+  [Essom]https://guidosalustri.github.io/essom/) is an award winning abstract strategy game for two players (1v1). It aims to match aesthetically classical games, yet keeping gameplay somewhat more casual and allowing players to bluff. Although there is a story embedded in its mechanics the game can also be enjoyed by neglecting its meaning all together. The original version of the game is crafted in ceramic and wood and the game is also available in digital format.
 
 - ST
