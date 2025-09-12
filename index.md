@@ -8,7 +8,8 @@ author_profile: true
 
 Bla Bla Blaaaa
 
-## Projects
+### Projects
+---
 - #### The Last Vampire
   [The Last Vampire](https://guidosalustri.github.io/lastvampire/) is an award winning social deduction board game where players must navigate deception, manage scarce blood resources and outwit their foes to survive. It's available in analog and digital formats, and it's been used as a case study for research both in psychology and game design.
   <br>
