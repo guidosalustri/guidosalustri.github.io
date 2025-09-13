@@ -80,6 +80,9 @@ author:
     - label: "Steam"
       icon: "fab fa-fw fa-steam"
       url: "https://store.steampowered.com/"
+    - label: "itch.io"
+      icon: "fab fa-fw fa-itch-io"
+      url: "https://itch.io/"
 
 footer:
   links:
