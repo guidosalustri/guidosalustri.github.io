@@ -6,7 +6,7 @@ title: "String Theory"
 
 <p align="center">
   <br>
-  <img src="../assets/images/st_game.png" width="100%" style="border:2px solid black; margin:5px;">
+  <img src="../assets/images/st_game.png" width="100%">
   <br>
 </p>
 
