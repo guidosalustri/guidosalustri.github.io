@@ -9,7 +9,7 @@ title: "String Theory"
   <br>
 </p>
 
-String Theory is an action-puzzle top-down 2D space game where the player has to maneuver a spaceship that traverses the sky constellations. Each level is one of the twelve zodiac constellations and the goal is to draw the constellation by connecting the given stars while avoiding different sorts of obstacles.`No GitHub API authentication could be found. Some fields may be missing or have incorrect data.`
+String Theory is an action-puzzle top-down 2D space game where the player has to maneuver a spaceship that traverses the sky constellations. Each level is one of the twelve zodiac constellations and the goal is to draw the constellation by connecting the given stars while avoiding different sorts of obstacles.`A Windows build is available for download.`
 
 The ship alternates between two states: orbiting stars, which recharges its engine with gravitational energy, and free flight, which consumes energy. Players must balance energy use, time of ejection from orbits, and choose paths strategically, making decision-making and energy management central elements of the game.
 
