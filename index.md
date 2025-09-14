@@ -27,4 +27,4 @@ Bla Bla Blaaaa
   <div style="margin: 30px 0 10px 0;">
   <iframe src="https://drive.google.com/file/d/1Ei_piX66B7IYlXH_iWGcYHz8CxF6X3gB/preview" width="100%" height="auto" style="aspect-ratio: 16 / 9;" allow="autoplay"></iframe>
   </div>
-  [String Theory](https://guidosalustri.github.io/stringtheory/) is a prototype action-puzzle, top-down 2D space game developed by a two-person team using the Godot engine. Both the aesthetics and controls were designed with mobile format in mind. At its core, String Theory explores themes of player frustration and agency. Moreover, The game was also used in a research study examining the relationship between players’ motivations and their in-game behaviour.
+  [`String Theory`](https://guidosalustri.github.io/stringtheory/) is a prototype action-puzzle, top-down 2D space game developed by a two-person team using the Godot engine. Both the aesthetics and controls were designed with mobile format in mind. At its core, String Theory explores themes of player frustration and agency. Moreover, The game was also used in a research study examining the relationship between players’ motivations and their in-game behaviour.
