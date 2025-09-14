@@ -24,3 +24,6 @@ Bla Bla Blaaaa
   [Essom](https://guidosalustri.github.io/essom/) is an award winning abstract strategy game for two players (1v1). It aims to match aesthetically classical games, yet keeping gameplay somewhat more casual and allowing players to bluff. Although there is a story embedded in its mechanics the game can also be enjoyed by neglecting its meaning all together. The original version of the game is crafted in ceramic and wood and the game is also available in digital format.
 
 - #### String Theory
+  <iframe src="https://drive.google.com/file/d/1Ei_piX66B7IYlXH_iWGcYHz8CxF6X3gB/preview" width="640" height="480" allow="autoplay"></iframe>
+
+  [String Theory](https://guidosalustri.github.io/stringtheory/) is a prototype action-puzzle, top-down 2D space game developed by a two-person team using the Godot engine. Both the aesthetics and controls were designed with mobile format in mind. At its core, String Theory explores themes of player frustration and agency. Moreover, The game was also used in a research study examining the relationship between players’ motivations and their in-game behaviour.
