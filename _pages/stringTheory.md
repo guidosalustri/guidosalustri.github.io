@@ -3,7 +3,7 @@ permalink: /stringtheory/
 title: "String Theory"
 ---
 
-<p align="center" style="margin: 30px 0 30px 0;">
+<p align="center" style="margin: 40px 0 40px 0;">
   <img src="../assets/images/st_game.png" width="100%">
 </p>
 
@@ -21,8 +21,8 @@ String Theory is a fast-paced game where difficulty quickly spikes. Players are 
 
 String Theory has served as a case study to explore how distinct in-game behaviours vary based on players’ self-reported intrinsic motivations and challenge types preferences. To investigate this, diverse in-game data was collected and analyzed to identify behavioral patterns. The full study has been published and can be found [here](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1965699&dswid=3547 "Visit DiVA").
 
-<p align="center" style="margin: 30px 0 30px 0;">
-  <sub style="margin: 0 0 15px 0;"><i>“Heatmaps for Leo Level.”</i></sub>
+<p align="center" style="margin: 30px 0 40px 0;">
+  <sub><i style="margin: 0 0 15px 0;" >“Heatmaps for Leo Level.”</i></sub>
   <img src="../assets/images/st_heatmap.png" width="100%">
 </p>
 <p align="center">⭐⭐⭐⭐</p>
