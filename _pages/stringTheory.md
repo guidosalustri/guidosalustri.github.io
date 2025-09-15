@@ -17,14 +17,14 @@ The ship alternates between two states: orbiting stars, which recharges its engi
 <p align="center">⭐</p>
 String Theory is a fast-paced game where difficulty quickly spikes. Players are rushed along levels and repeated failure is an inevitable component of the game. The overall aim is to nurture players' frustration as gameplay unfolds. If frustration is not carefully tailored it can have a negative emotional impact on the player, fostering disengagement. Yet, frustration is not inherently negative: it can be used as a tool to fine-tune players' interests and enhance emotional investment. By encouraging repeated attempts it can foster a sense of perseverance which can lead to increased emotional investment when players feel a sense of progress despite setbacks.
 
-<div style="margin: 30px 0 10px 0;">
+<div style="margin: 30px 0 80px 0;">
   <iframe src="https://drive.google.com/file/d/1Ei_piX66B7IYlXH_iWGcYHz8CxF6X3gB/preview" width="100%" height="auto" style="aspect-ratio: 16 / 9;" allow="autoplay"></iframe>
 </div>
 
-String Theory has served as a case study to explore how distinct in-game behaviours vary based on players’ self-reported intrinsic motivations and challenge types preferences. To investigate this, diverse in-game data was collected and analyzed to identify behavioral patterns. The full study has been published and can be found here.
+String Theory has served as a case study to explore how distinct in-game behaviours vary based on players’ self-reported intrinsic motivations and challenge types preferences. To investigate this, diverse in-game data was collected and analyzed to identify behavioral patterns. The full study has been published and can be found [here}("https://uu.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=1&af=%5B%5D&searchType=SIMPLE&sortOrder2=title_sort_asc&query=Connecting+the+Stars%3A+Mapping+Players+Preferences+and+Motivation+to+In-Game+Behaviour&language=en&pid=diva2%3A1965699&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=5752").
 
 <p align="center" style="margin: 30px 0 10px 0;">
-  <img src="../assets/images/st_heatmap.png" width="100%">
   <sub><i>“Heatmaps for Leo Level.”</i></sub>
+  <img src="../assets/images/st_heatmap.png" width="100%">
 </p>
 <p align="center">⭐⭐⭐⭐</p>
