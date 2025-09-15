@@ -23,9 +23,8 @@ String Theory is a fast-paced game where difficulty quickly spikes. Players are 
 
 String Theory has served as a case study to explore how distinct in-game behaviours vary based on players’ self-reported intrinsic motivations and challenge types preferences. To investigate this, diverse in-game data was collected and analyzed to identify behavioral patterns. The full study has been published and can be found here.
 
-<p align="center">
-  <br>
+<p align="center" style="margin: 30px 0 10px 0;">
   <img src="../assets/images/st_heatmap.png" width="100%">
-  <br>
+  <sub><i>“Heatmaps for Leo Level.”</i></sub>
 </p>
 <p align="center">⭐⭐⭐⭐</p>
