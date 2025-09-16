@@ -13,8 +13,6 @@ Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore
 <p align="center">
   <img src="../assets/images/essom_render.png" width="40%" style="border:3px solid grey; margin:5px;">
   <img src="../assets/images/essom_crop.png" width="40%" style="border:3px solid grey; margin:5px;">
-</p>
-<p align="center">
   <img src="../assets/images/img_6760.jpg" width="40%" style="border:3px solid grey; margin:5px;">
   <img src="../assets/images/esspm_ceramica.jpg" width="30%" style="border:3px solid grey; margin:5px;">
 </p>
