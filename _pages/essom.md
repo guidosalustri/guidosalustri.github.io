@@ -16,7 +16,7 @@ Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore
 </p>
 <p align="center">
   <img src="../assets/images/img_6760.jpg" width="45%" style="border:3px solid grey; margin:5px;">
-  <img src="../assets/images/essom_ceramica.png" width="45%" style="border:3px solid grey; margin:5px;">
+  <img src="../assets/images/esspm_ceramica.png" width="45%" style="border:3px solid grey; margin:5px;">
 </p>
 <p align="center">☽ ~~~~~  ☾ ☼ ☽  ~~~~~ ☾</p>
 ---
