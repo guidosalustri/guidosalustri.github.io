@@ -8,8 +8,8 @@ Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad veli
 
 <p align="center">
   <br>
-  <img src="../assets/images/essom_render.png" width="45%" style="border:2px solid black; margin:5px;">
-  <img src="../assets/images/essom_crop.png" width="45%" style="border:2px solid black; margin:5px;">
+  <img src="../assets/images/essom_render.png" width="45%" style="border:3px solid grey; margin:5px;">
+  <img src="../assets/images/essom_crop.png" width="45%" style="border:3px solid grey; margin:5px;">
   <br>
 </p>
 
@@ -21,7 +21,7 @@ Essom won [Best Game Design](https://game.speldesign.uu.se/projects/analog-games
 
 <p align="center">
   <br>
-  <img src="../assets/images/img_6760.jpg" width="45%" style="border:2px solid black; margin:5px;">
+  <img src="../assets/images/img_6760.jpg" width="45%" style="border:3px solid grey; margin:5px;">
   <br>
 </p>
 
