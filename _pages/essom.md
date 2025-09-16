@@ -3,10 +3,12 @@ permalink: /essom/
 title: "Essom"
 ---
 
-<p align="center">☽☼☾</p>
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+<p align="center">☽ ☼ ☾</p>
+Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. 
+<p align="center">☾ ☼ ☽\</p>
+Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
-<p align="center">☽ ~~~~~  ☾ ☼ ☽  ~~~~~ ☾</p>
+
 ---
 <p align="center">
   <br>
@@ -26,7 +28,7 @@ Essom won [Best Game Design](https://game.speldesign.uu.se/projects/analog-games
 
 <p align="center">
   <br>
-  <img src="../assets/images/img_6760.jpg" width="45%" style="border:3px solid grey; margin:5px;">
+  <img src="../assets/images/essom2ggc.png" width="95%" style="border:3px solid grey; margin:5px;">
   <br>
 </p>
 
