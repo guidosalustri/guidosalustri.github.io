@@ -3,10 +3,13 @@ permalink: /essom/
 title: "Essom"
 ---
 
+tecnical intro for essom, names mechanics etc.
+
 <p align="center">☽ ☼ ☾</p>
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. 
+The word Essom is the recalling of a word I heard once, which was surely not Essom. I forgot how the word really sounded, how it was spelled, and even from which language it came; just the meaning stayed with me. This un-remembered word was used to name the place where all lost things go, and this is the meaning I give to this new chimera: Essom. I guess the real one, is probably at Essom right now.
+
 <p align="center">☾ ☼ ☽</p>
-Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+In the game, Essom could be the board under the board: that shadow that is cast by board, and where small Sils fall when Tsoas are pushed to holes. Or on a second thought it could also be the area under the Tsoas, where Sils are hidden. Somehow both views are valid. Players search for Sils, but at the same time, they are also the ones that keep them hidden. So when are they really lost? This duality is probably the heart of the heart for Essom.
 
 ---
 <p align="center">
