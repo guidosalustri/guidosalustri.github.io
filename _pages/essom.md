@@ -20,7 +20,7 @@ In the game, Essom could be the board under the board: that shadow that is cast 
 
 ---
 <p align="center">
-  <sub>
+  <sub style="margin:0 0 40px 0;">
     <i>“Why do Tsoas hide Sils of the opposite color?”- someone asks.</i><br>
   </sub>
   <sub style="margin:10px 0 0 0;">
