@@ -23,11 +23,12 @@ In the game, Essom could be the board under the board: that shadow that is cast 
   <br>
   <sub>
     <i>“Why do Tsoas hide Sils of the opposite color?”- someone asks.</i>
-    <br><span style="font-size:0.5em;"><br></span>
-    <i>“To me, Sils hidden under Tsoas reminds me of a child hiding behind a mother's lap. Maybe it's just that the mother is not the right one”- other answers</i>
+    <span style="font-size:1.5em;"><br></span>
+    <i>“To me, Sils hidden under Tsoas reminds me of a child hiding behind a mother's lap. Maybe it's just that the mother is not the right one”- another answers</i>
   </sub>
   <br>
 </p>
+<br>
 ---
 <p align="center"  style="margin:0 0 40px 0;">☽ ~~~~~  ☽ ☼ ☾  ~~~~~ ☾</p>
 
