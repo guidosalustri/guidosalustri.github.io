@@ -19,7 +19,7 @@ The name Essom comes from the recalling of a word I heard once, which was surely
 </p>
 ---
 
-For some, the board under the board could be Essom: that shadow that is cast by the real board, and where small Sils fall when Tsoas are pushed to holes. For others, Essom could be the area under the Tsoas, where Sils are hidden. Both views are valid, players search for Sils, but they also keep them hidden, in Essom both sides are experienced at the same time.
+For some, the board under the board could be Essom: that shadow that is cast by the real board, and where small Sils fall when Tsoas are pushed to holes. For others, Essom could be the area under the Tsoas, where Sils are hidden. Both views are valid, players search for Sils, but they also keep them hidden: in Essom both sides are experienced at the same time.
 
 <p align="center">☾ ☼ ☽</p>
 The game offers tactical depth, yet it is not a coincidence that memory is such a crucial element of gameplay. Hiding, protecting or searching, in Essom Sils are the heart of the heart. Remembering or forgetting where Sils are hidden is the starting or ending point for any possible strategy.
@@ -30,7 +30,7 @@ The game offers tactical depth, yet it is not a coincidence that memory is such 
   <sub>
     <i>
       “Why do Tsoas hide Sils of the opposite color?”- someone asks.<br>~~~<br>
-      “To me, Sils hidden under Tsoas reminds me of a child hiding behind a mother's lap. Maybe it's just that the mother is not the right one”- another answers
+      “Sils hidden under Tsoas reminds me of a child hiding behind a mother's lap. Maybe it's just that the mother is not the right one”- another answers
     </i>
   </sub>
 </p>
@@ -38,7 +38,7 @@ The game offers tactical depth, yet it is not a coincidence that memory is such 
 ---
 <p align="center"  style="margin:0 0 40px 0;">☽ ~~~~~  ☽ ☼ ☾  ~~~~~ ☾</p>
 
-Above all, I think Tsoas and Sils are symbols of families. Families that were broken, and families that need to be broken so identities can be restored. Essom represent the outcome of decisions that were made from a position of fear and hatred. The result of a military dictatorship. The struggles of the human rights organization “Abuelas de Plaza de Mayo”. The search for the identity of a stolen generation.
+Above all, I think Tsoas and Sils are symbols of families. Families that were broken, and families that need to be broken so identities can be restored. Essom represent the outcome of decisions that were made from a position of fear and hatred. The result of a military dictatorship. The struggles of the human rights organization “Abuelas de Plaza de Mayo”. And the search for the identity of a stolen generation.
 
 <p align="center">☾ ☼ ☽</p>
 From playing Essom I learn that somehow Sils identity was being stripped two times in the game: when they were hidden, of course, but also when they were found. A Tsoa needs to be forced into a hole for a Sil to be revealed, just as how an identity needs to be broken for another one to emerge. This evokes the complexity of the situation all these families lived in.
