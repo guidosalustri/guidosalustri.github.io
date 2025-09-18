@@ -60,20 +60,10 @@ plugins:
 author:
   name   : "Guido Salustri"
   avatar : "/assets/images/cacharro.png"
-  bio    : "I make games; games make me.<br><br>&lt;null null null&gt;"
-  links:
-    #- label: "Website"
-    #  icon: "fas fa-fw fa-link"
-    #  url: "https://"
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-    #  url: "https://instagram.com/"
+  bio    : "I make games; games make me.<br>g.sabbsal@gmail.com<br>&lt;null null null&gt;"
   links:
     - label: "g.sabbsal@gmail.com"
-    icon: "fas fa-fw fa-envelope"
+      icon: "fas fa-fw fa-envelope"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:g.sabbsal@gmail.com"
