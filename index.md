@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-`g.sabbsal"gmail.com`
+`g.sabbsal@gmail.com`
 
 blaaaa blaaa blaaaaaaaaaaaa
 
