@@ -21,7 +21,7 @@ For some, the board under the board could be Essom: that shadow that is cast by 
 <p align="center">☾ ☼ ☽</p>
 The game offers tactical depth, yet it is not a coincidence that memory is such a crucial element of gameplay. Hiding, protecting or searching, in Essom Sils are the heart of the heart. Remembering or forgetting where Sils are hidden is the starting or ending point for any possible strategy.
 
-
+<p align="center"  style="margin:30px 0 0 0;">☽ ~~~~~  ☽ ☼ ☾  ~~~~~ ☾</p>
 ---
 <p align="center">
   <sub>
@@ -41,7 +41,7 @@ Above all, I think Tsoas and Sils are symbols of families. Families that were br
 From playing Essom I learn that somehow Sils identity was being stripped two times in the game: when they were hidden, of course, but also when they were found. A Tsoa needs to be forced into a hole for a Sil to be revealed, just as how an identity needs to be broken for another one to emerge. This evokes the complexity of the situation all these families lived in.
 
 
-<iframe src="https://drive.google.com/file/d/1grMPTFva3qjMSKzPUWEm8MeUwoDNK63h/preview" width="640" height="720" style="border:3px solid grey;" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1grMPTFva3qjMSKzPUWEm8MeUwoDNK63h/preview" width="640" height="720" style="border:3px solid grey;" allow="autoplay" style="margin:20px 0 30px 0;"></iframe>
 
 I am particularly interested in how we can put meaning even to abstract figures and mechanics in games. And how such activities might serve to bridge our understanding of topics that otherwise could be overwhelming to explore.
 
@@ -49,10 +49,8 @@ I am particularly interested in how we can put meaning even to abstract figures 
 In the end, with Essom, such as it happens with Chess or Backgammon, it's up to the players how much they want to take off the game, after the game is played. And that is something I find exceptional about abstract games.
 
 
-<p align="center">
-  <br>
+<p align="center" style="margin:30px 0 30px 0;">
   <img src="../assets/images/essom2ggc.png" width="95%" style="border:3px solid grey; margin:5px;">
-  <br>
 </p>
 
 Thanks for reading, I know it was a bit long…
