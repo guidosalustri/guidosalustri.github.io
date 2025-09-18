@@ -71,8 +71,10 @@ author:
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:g.sabbsal@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/guidosalustri"
