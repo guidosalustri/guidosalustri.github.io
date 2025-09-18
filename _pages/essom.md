@@ -41,7 +41,7 @@ The game offers tactical depth, yet it is not a coincidence that memory is such 
 Above all, I think Tsoas and Sils are symbols of families. Families that were broken, and families that need to be broken so identities can be restored. Essom represent the outcome of decisions that were made from a position of fear and hatred. The result of a military dictatorship. The struggles of the human rights organization “Abuelas de Plaza de Mayo”. And the search for the identity of a stolen generation.
 
 <p align="center">☾ ☼ ☽</p>
-From playing Essom I learn that somehow Sils identity was being stripped two times in the game: when they were hidden, of course, but also when they were found. A Tsoa needs to be forced into a hole for a Sil to be revealed, just as how an identity needs to be broken for another one to emerge. This evokes the complexity of the situation all these families lived in.
+To my own surprise, from playing Essom, I learned that the identity of the Sils was being stripped twice during the game: first when they were hidden (of course), and again when they were found. A Tsoa must be forced into a hole for a Sil to be revealed, just as an identity must be broken for another one to take shape. This reflects the complexity of the situation these families lived through and the impossible puzzle they were given to solve.
 
 
 <iframe src="https://drive.google.com/file/d/1grMPTFva3qjMSKzPUWEm8MeUwoDNK63h/preview" width="640" height="720" style="border:3px solid grey;" allow="autoplay" style="margin:20px 0 30px 0;"></iframe>
