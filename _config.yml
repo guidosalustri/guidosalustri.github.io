@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Guido Salustri<br>g.sabbsal@gmail.com"
+  name   : "Guido Salustri"
   avatar : "/assets/images/cacharro.png"
   bio    : "I make games; games make me.<br><br>&lt;null null null&gt;"
   links:
