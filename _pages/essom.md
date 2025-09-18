@@ -8,6 +8,7 @@ Essom won [Best Game Design](https://game.speldesign.uu.se/projects/analog-games
 <p align="center">☽ ☼ ☾</p>
 The name Essom comes from the recalling of a word I heard once, which was surely not close enough to the word Essom. I forget the language, how it was spelled, and how the word sounded; just its meaning stayed with me. This un-remembered word was used to name the place where all lost things go, and this is the meaning the new chimera, Essom, has. I guess at this point, the real one is probably at the real Essom, right next to my car keys.
 
+<p align="center"  style="margin:30px 0 0 0;"></p>
 ---
 <p align="center">
   <img src="../assets/images/essom_render.png" width="40%" style="border:3px solid grey; margin:5px;">
@@ -21,7 +22,7 @@ For some, the board under the board could be Essom: that shadow that is cast by 
 <p align="center">☾ ☼ ☽</p>
 The game offers tactical depth, yet it is not a coincidence that memory is such a crucial element of gameplay. Hiding, protecting or searching, in Essom Sils are the heart of the heart. Remembering or forgetting where Sils are hidden is the starting or ending point for any possible strategy.
 
-<p align="center"  style="margin:30px 0 0 0;">☽ ~~~~~  ☽ ☼ ☾  ~~~~~ ☾</p>
+<p align="center"  style="margin:30px 0 0 0;">☽ ☼ ☾</p>
 ---
 <p align="center">
   <sub>
