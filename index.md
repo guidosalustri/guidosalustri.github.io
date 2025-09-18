@@ -21,7 +21,7 @@ author_profile: true
     <br>
     <sub><i>“Even when Buried, Memory Grows.”</i></sub>
   </p>
-  [Essom](https://guidosalustri.github.io/essom/) is an award winning abstract strategy game for two players (1v1). It aims to match aesthetically classical games, yet keeping gameplay somewhat more casual and allowing players to bluff. Although there is a story embedded in its mechanics the game can also be enjoyed by neglecting its meaning all together. The original version of the game is crafted in ceramic and wood and the game is also available in digital format.
+  [Essom](https://guidosalustri.github.io/essom/) is an award winning abstract strategy game for two players. It aims to match aesthetically classical games, yet keeping gameplay somewhat more casual and allowing players to bluff. The game also explores the embedding of metaphors in abstract games, and how meaning can be conveyed in game mechanics and abstract figures. The original version of the game is crafted in ceramic and wood and the game is also available in digital format.
 
 - #### String Theory
   <div style="margin: 30px 0 10px 0;">
