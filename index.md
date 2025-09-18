@@ -16,7 +16,7 @@ author_profile: true
   <br>
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/DBZz-ncnevk?si=_5B6BWH2y8VWxiys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <p align="right">
+  <p align="center">
     <br>
     <img src="/assets/images/WinnerStamps2024_GameDesign_Black.png" width="25%" style="border:2px solid black; margin:2px;">
     <img src="/assets/images/NomineeStamps_BestInShow_Black.png" width="25%" style="border:2px solid black; margin:2px;">
