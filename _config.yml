@@ -58,15 +58,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Guido Salustri"
+  name   : "Guido Salustri<br>g.sabbsal@gmail.com"
   avatar : "/assets/images/cacharro.png"
-  bio    : "I make games; games make me.<br>g.sabbsal@gmail.com<br>&lt;null null null&gt;"
+  bio    : "I make games; games make me.<br><br>&lt;null null null&gt;"
   links:
-    - label: "g.sabbsal@gmail.com"
-      icon: "fas fa-fw fa-envelope"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:g.sabbsal@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/guidosalustri"
@@ -97,6 +92,9 @@ footer:
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:g.sabbsal@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/guidosalustri"
