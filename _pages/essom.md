@@ -2,8 +2,11 @@
 permalink: /essom/
 title: "Essom"
 ---
+Essom won [Best Game Design](https://game.speldesign.uu.se/projects/analog-games/essom/) at the Gotland Game Conference 2025 and received funding to attend Spiel Essen 2025. Although I strongly recommend experiencing the game in its analog form, a [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3546913194 "Visit the Steam Workshop") on Tabletop Simulator is also available. 
 
-Essom won [Best Game Design](https://game.speldesign.uu.se/projects/analog-games/essom/) at the Gotland Game Conference 2025. Thanks to this recognition, it received funding to go to Spiel Essen 2025. Although the game is especially fun in its analog version, a [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3546913194 "Visit the Steam Workshop") on Tabletop Simulator is also available, showcasing a digital adaptation of the game.
+<p align="center">☾ ☼ ☽</p>
+
+In Essom, players search for and retrieve hidden tokens called Sils. These tokens are hidden under other pieces called Tsoas. To retrieve a Sil, a Tsoas needs to be forced into a cell with a hole. The game blends casual play with strategic depth, as the hidden tokens add unpredictability and the chance to bluff.
 
 <p align="center">☽ ☼ ☾</p>
 The name Essom comes from the recalling of a word I heard once, which was surely not close enough to the word Essom. I forget the language, how it was spelled, and how the word sounded; just its meaning stayed with me. This un-remembered word was used to name the place where all lost things go, and this is the meaning the new chimera, Essom, has. I guess at this point, the real one is probably at the real Essom, right next to my car keys.
