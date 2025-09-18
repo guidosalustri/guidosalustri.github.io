@@ -6,7 +6,9 @@ layout: single
 author_profile: true
 ---
 
-`Bla Bla Blaaaa`
+`g.sabbsal"gmail.com`
+
+blaaaa blaaa blaaaaaaaaaaaa
 
 # Projects
 ---
