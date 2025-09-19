@@ -28,9 +28,9 @@ The Last Vampire won [Best Game Design](https://game.speldesign.uu.se/projects/a
 
 From a design perspective, The Last Vampire tackles crucial aspects of social deduction games. A key feature is that the focus is not put on roles, but on items instead. This simple shift not only distributes agency more evenly among players but also allows agency to shift throughout gameplay, something that fixed roles cannot offer.
 
-More importantly, players’ interaction with items, and, as an extension, with blood resources, was specially designed to foster social interaction and give players space to discuss, talk, doubt, deduce, and deceive.
+More importantly, players’ interaction with items, and, as an extension, with blood resources, was specially designed to foster social interaction and give players space to discuss, talk, doubt, deduce, and deceive. What is more, in contrast to player elimination, players can be muted by turns throughout the game. This small adjustment enhances not only the experience of the muted player but also the engagement of the whole group.
 
-The game features fast and minimal setup, easy-to-remember rules, and lets complexity emerge naturally through twists of arguments, layers of intention, or disguised motives. In the end, it’s the players themselves who bring the complexity and replayability to the game. It’s also worth mentioning that no player gets to sit out, since there is no player elimination throughout the game.
+The game features fast and minimal setup, easy-to-remember rules, and lets complexity emerge naturally through twists of arguments, layers of intention, or disguised motives. In the end, it’s the players themselves who bring the complexity and replayability to the game.
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/DBZz-ncnevk?si=_5B6BWH2y8VWxiys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
