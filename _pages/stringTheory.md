@@ -19,7 +19,7 @@ String Theory is a fast-paced game where difficulty quickly spikes. Players are 
   <iframe src="https://drive.google.com/file/d/1Ei_piX66B7IYlXH_iWGcYHz8CxF6X3gB/preview" width="100%" height="auto" style="aspect-ratio: 16 / 9;" allow="autoplay"></iframe>
 </div>
 
-String Theory has served as a case study to explore how distinct in-game behaviours vary based on players’ self-reported intrinsic motivations and challenge types preferences. To investigate this, diverse in-game data was collected and analyzed to identify behavioral patterns. The full study has been published and can be found [here](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1965699&dswid=3547 "Visit DiVA").
+String Theory has served as a case study to explore how distinct in-game behaviours vary based on players’ self-reported intrinsic motivations and challenge types preferences. To investigate this, diverse in-game data was collected and analyzed to identify behavioral patterns. The full study has been published and can be found.<a href="https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1965699&dswid=3547" target="_blank" rel="noopener noreferrer" title="Visit DiVA"><code>here</code></a>
 
 <p align="center">
   <sub style="margin: 30px 0 0 0;"><i>View of Heatmaps for a level: Leo Constellation</i></sub>
