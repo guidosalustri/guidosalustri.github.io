@@ -14,7 +14,7 @@ blaaaa blaaa blaaaaaaaaaaaa
 ---
 - #### The Last Vampire
 
-  [The Last Vampire](https://guidosalustri.github.io/lastvampire/) is an award-winning social deduction board game where players must navigate deception, manage scarce blood resources and outwit their foes to survive. It's available in analog and digital formats, and it's been used as a case study for research both in psychology and game design.
+  [The Last Vampire](https://guidosalustri.github.io/lastvampire/) is an <a href="https://game.speldesign.uu.se/projects/analog-games/the-last-vampire/" target="_blank" rel="noopener noreferrer">Award-winning</a> social deduction board game where players must navigate deception, manage scarce blood resources and outwit their foes to survive. It's available in analog and digital formats, and it's been used as a case study for research both in psychology and game design.
   <br>
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/DBZz-ncnevk?si=_5B6BWH2y8VWxiys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -32,7 +32,7 @@ blaaaa blaaa blaaaaaaaaaaaa
     <sub><i>“Even when Buried, Memory Grows.”</i></sub>
   </p>
   
-  [Essom](https://guidosalustri.github.io/essom/) is an award-winning abstract strategy game for two players. It is a solo project that aesthetically aims to match classical games while keeping gameplay more casual and giving players the opportunity to bluff. The game also explores how metaphors can be embedded in abstract games and how meaning can be conveyed through game mechanics and abstract figures. The original version of the game was crafted in ceramic and wood, and the game is also available in digital format.
+  [Essom](https://guidosalustri.github.io/essom/) is an <a href="https://game.speldesign.uu.se/projects/analog-games/the-last-vampire/" target="_blank" rel="noopener noreferrer">Award-winning</a> abstract strategy game for two players. It is a solo project that aesthetically aims to match classical games while keeping gameplay more casual and giving players the opportunity to bluff. The game also explores how metaphors can be embedded in abstract games and how meaning can be conveyed through game mechanics and abstract figures. The original version of the game was crafted in ceramic and wood, and the game is also available in digital format.
 
 - #### String Theory
   <div style="margin: 30px 0 10px 0;">
