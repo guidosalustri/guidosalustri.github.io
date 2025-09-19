@@ -18,7 +18,7 @@ Funny to think that, without even noticing, we hit on one of game design’s gol
 
 <p align="center">🩸🩸🩸🩸</p>
 
-The Last Vampire won [Best Game Design](https://game.speldesign.uu.se/projects/analog-games/the-last-vampire/) at the Gotland Game Conference 2024, was also nominated for Best in Show, and received funding to attend Spiel Essen 2025. Although the game is especially fun in its analog version, a [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3551316320 "Visit the Steam Workshop") on Tabletop Simulator is also available. Furthermore, it has been used as a case study for research in both psychology and [game design](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1874280&dswid=-253 "Visit DiVA") by Uppsala University.
+The Last Vampire won <a href="https://game.speldesign.uu.se/projects/analog-games/the-last-vampire/" target="_blank" rel="noopener noreferrer">Best Game Design</a> at the Gotland Game Conference 2024, was also nominated for Best in Show, and received funding to attend Spiel Essen 2025. Although the game is especially fun in its analog version, a <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3551316320" target="_blank" rel="noopener noreferrer" titile="Visit Steam">Steam Workshop</a> on Tabletop Simulator is also available. Furthermore, it has been used as a case study for research in both psychology and <a href="https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1874280&dswid=-253" target="_blank" rel="noopener noreferrer" titile="Visit DiVA">Game Design</a> by Uppsala University.
 
 <p align="center">
   <iframe src="https://drive.google.com/file/d/1DIjEQL46iLtv-yWAjoD9MBq4nvIJfo9f/preview" width="640" height="720" allow="autoplay"></iframe>
