@@ -12,9 +12,9 @@ title: "The Last Vampire"
 
 The Last Vampire was the outcome of a group project and the first full-fledged game I ever made. I had the chance to watch a lot of people playing it, and the fact that it’s always such a fun experience makes me especially proud. I like to think that the fun players can get out of a game relates to how fun the design process was in itself.
 
-For me, games that “spark joy” (as Marie Kondo would say) usually come from playful design experiences. The Last Vampire was exactly that: we unconsciously had a lot of fun when making it, and that reflects in the game.
+For me, games that “spark joy” (as Marie Kondo would say) usually come from playful design experiences. The Last Vampire was exactly that: without noticing, we ended up having a lot of fun when making it, and that reflects in the game.
 
-Funny to think that, without even noticing, we hit on one of game design’s golden rules; one that is curiously often neglected when developing games nowadays.Of course, I am not implying that just by having fun, a fun game will somehow spawn out of nowhere, but from a design perspective, to me, it feels like it’s the only possible starting point.
+Funny to think that, without even noticing, we hit on one of game design’s golden rules; one that seems often neglected in games nowadays. Of course, I am not suggesting that just having fun is enough to create a great game, but from a design perspective, it feels like the only possible starting point.
 
 <p align="center">🩸🩸🩸🩸</p>
 
