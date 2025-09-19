@@ -2,7 +2,9 @@
 permalink: /essom/
 title: "Essom"
 ---
-Essom won [Best Game Design](https://game.speldesign.uu.se/projects/analog-games/essom/) at the Gotland Game Conference 2025 and received funding to attend Spiel Essen 2025. Although I strongly recommend experiencing the game in its analog form, a [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3546913194 "Visit the Steam Workshop") on Tabletop Simulator is also available. 
+
+<p align="center">☽ ☼ ☾</p>
+Essom won <a href="https://game.speldesign.uu.se/projects/analog-games/essom/" target="_blank" rel="noopener noreferrer">Best Game Design</a> at the Gotland Game Conference 2025 and received funding to attend Spiel Essen 2025. Although I strongly recommend experiencing the game in its analog form, a <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3546913194" target="_blank" rel="noopener noreferrer" title="Visit the Steam Workshop">Steam Workshop</a> on Tabletop Simulator is also available. 
 
 <p align="center">☾ ☼ ☽</p>
 
