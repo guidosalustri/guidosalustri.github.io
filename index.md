@@ -6,9 +6,19 @@ layout: single
 author_profile: true
 ---
 
-<code onclick="navigator.clipboard.writeText('g.sabbsal@gmail.com');" style="cursor:pointer;">
-  <i class="fas fa-fw fa-envelope"></i> g.sabbsal@gmail.com
+<code id="email" style="cursor:pointer;">
+<i class="fas fa-fw fa-envelope"></i> g.sabbsal@gmail.com
 </code>
+<span id="copied-message" style="display:none; color:green;">Copied!</span>
+<script>
+  document.getElementById('email').onclick = function() {
+    navigator.clipboard.writeText('g.sabbsal@gmail.com');
+    document.getElementById('copied-message').style.display = 'inline';
+    setTimeout(() => {
+      document.getElementById('copied-message').style.display = 'none';
+    }, 1500);
+  };
+</script>
 
 blaaaa blaaa blaaaaaaaaaaaa
 
