@@ -5,7 +5,7 @@
 layout: single
 author_profile: true
 ---
-<i class="fas fa-fw fa-envelope"> </i><code onclick="navigator.clipboard.writeText('g.sabbsal@gmail.com');" style="cursor:pointer;" titiel="Copy E-mail">g.sabbsal@gmail.com</code>
+<i class="fas fa-fw fa-envelope">    </i><code onclick="navigator.clipboard.writeText('g.sabbsal@gmail.com');" style="cursor:pointer;" titiel="Copy E-mail">g.sabbsal@gmail.com</code>
 
 blaaaa blaaa blaaaaaaaaaaaa
 
@@ -38,4 +38,4 @@ blaaaa blaaa blaaaaaaaaaaaa
   <iframe src="https://drive.google.com/file/d/1Ei_piX66B7IYlXH_iWGcYHz8CxF6X3gB/preview" width="100%" height="auto" style="aspect-ratio: 16 / 9;" allow="autoplay"></iframe>
   </div>
   
-  [String Theory](https://guidosalustri.github.io/stringtheory/) is an action-puzzle, top-down 2D space game developed by a two-person team using Godot engine. It’s in a prototype stage and both the aesthetics and controls were designed for mobile format. At its core, String Theory explores themes of game flow, player agency and frustration. Moreover, the game also has a published paper that studies the relationship between players’ motivations and their in-game behaviour: <a href="https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1965699&dswid=3547" target="_blank" rel="noopener noreferrer" title="Visit DiVA">“Connecting the Stars: Mapping Players Preferences and Motivation to In-Game Behaviour”</a>.
+  [String Theory](https://guidosalustri.github.io/stringtheory/) is an action-puzzle, top-down 2D space game developed by a two-person team using Godot engine. It’s in a prototype stage and both the aesthetics and controls were designed for mobile format. At its core, String Theory explores themes of game flow, player agency and frustration. Moreover, the game has also been employed in <a href="https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1965699&dswid=3547" target="_blank" rel="noopener noreferrer" title="Visit DiVA">research</a> studying the relationship between players’ motivations and their in-game behaviour.
