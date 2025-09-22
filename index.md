@@ -5,7 +5,7 @@
 layout: single
 author_profile: true
 ---
-<i class="fas fa-fw fa-envelope"></i><code onclick="navigator.clipboard.writeText('g.sabbsal@gmail.com');" style="cursor:pointer;"> g.sabbsal@gmail.com</code>
+<i class="fas fa-fw fa-envelope"> </i><code onclick="navigator.clipboard.writeText('g.sabbsal@gmail.com');" style="cursor:pointer;" titiel="Copy E-mail">g.sabbsal@gmail.com</code>
 
 blaaaa blaaa blaaaaaaaaaaaa
 
