@@ -4,14 +4,9 @@ title: "Essom"
 ---
 
 <p align="center">☽ ☼ ☾</p>
-Essom won <a href="https://game.speldesign.uu.se/projects/analog-games/essom/" target="_blank" rel="noopener noreferrer">Best Game Design</a> at the Gotland Game Conference 2025 and received funding to attend Spiel Essen 2025. Although I strongly recommend experiencing the game in its analog form, a <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3546913194" target="_blank" rel="noopener noreferrer" title="Visit Steam">Steam Workshop</a> on Tabletop Simulator is also available. 
+For a long time I have been willing to take the challenge of solo designing an abstract game. I am particularly interested in the symbolism of abstract games and how people can embed narrative and meaning, even, into geometry shapes and mechanics. And how such activities might serve to bridge our understanding of topics that otherwise could be overwhelming to explore. For Essom, my goal was clear: to create a game that was a metaphor, but without neglecting the game that held the metaphor. 
 
-<p align="center">☾ ☼ ☽</p>
-
-In Essom, players search for and retrieve hidden tokens called Sils. These tokens are hidden under other pieces called Tsoas. To retrieve a Sil, a Tsoas needs to be forced into a cell with a hole. The game blends casual play with strategic depth, as the hidden tokens add unpredictability and the chance to bluff.
-
-<p align="center">☽ ☼ ☾</p>
-The name Essom comes from the recalling of a word I heard once, which was surely not close enough to the word Essom. I forget the language, how it was spelled, and how the word sounded; just its meaning stayed with me. This un-remembered word was used to name the place where all lost things go, and this is the meaning the new chimera, Essom, has. I guess at this point, the real one is probably at the real Essom, right next to my car keys.
+From a design perspective I wanted to create a game that could offer strategic depth, but without relying completely on pure skill and logical thinking. I wanted gameplay to be somewhat more casual and relaxing than Go or Chess. Maybe closer to match the aesthetics of Backgammon where strategy is needed but it's also limited by luck factors. After all, Backgammon is such a beautifully designed game with its own metaphor in it: as  dice rolling representing the stars under which one is born.
 
 ---
 <p align="center">
@@ -20,6 +15,15 @@ The name Essom comes from the recalling of a word I heard once, which was surely
   <img src="../assets/images/img_6760.jpg" width="40%" style="border:3px solid grey; margin:5px;">
 </p>
 ---
+
+
+In Essom, players need to search and retrieve hidden tokens called Sils. Sils are hidden (by players) under other pieces called Tsoas. A Tsoa with a Sil inside is called a Tsoa-Sil. To retrieve a Sil, a Tsoa-Sil needs to be forced into a cell with a hole. The game blends tactical depth with casual play. The hidden Sils not only adds uncertainty to the game, it also allows players to rely on bluffing as a tactic, an element that is rarely seen in abstract games.
+
+Essom won <a href="https://game.speldesign.uu.se/projects/analog-games/essom/" target="_blank" rel="noopener noreferrer">Best Game Design</a> at the Gotland Game Conference 2025 and received funding to attend Spiel Essen 2025. Although I strongly recommend experiencing the game in its analog form, a <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3546913194" target="_blank" rel="noopener noreferrer" title="Visit Steam">Steam Workshop</a> on Tabletop Simulator is also available. 
+
+<iframe src="https://drive.google.com/file/d/1grMPTFva3qjMSKzPUWEm8MeUwoDNK63h/preview" width="640" height="720" style="border:3px solid grey;" allow="autoplay" style="margin:20px 0 30px 0;"></iframe>
+
+The name Essom comes from the recalling of a word I heard once, which was surely not close enough to the word Essom. I forget the language, how it was spelled, and how the word sounded; just its meaning stayed with me. This un-remembered word was used to name the place where all lost things go, and this is the meaning the new chimera, Essom, has. I guess at this point, the real one is probably at the real Essom, right next to my car keys.
 
 For some, the board under the board could be Essom: that shadow that is cast by the real board, and where small Sils fall when Tsoas are pushed to holes. For others, Essom could be the area under the Tsoas, where Sils are hidden. Both views are valid, players search for Sils, but they also keep them hidden: in Essom both sides are experienced at the same time.
 
@@ -45,17 +49,8 @@ Above all, I think Tsoas and Sils are symbols of families. Families that were br
 <p align="center">☾ ☼ ☽</p>
 To my own surprise, from playing Essom, I learned that the identity of the Sils was being stripped twice during the game: first when they were hidden (of course), and again when they were found. A Tsoa must be forced into a hole for a Sil to be revealed, just as an identity must be broken for another one to take shape. This reflects the complexity of the situation these families lived through and the impossible puzzle they were given to solve.
 
-
-<iframe src="https://drive.google.com/file/d/1grMPTFva3qjMSKzPUWEm8MeUwoDNK63h/preview" width="640" height="720" style="border:3px solid grey;" allow="autoplay" style="margin:20px 0 30px 0;"></iframe>
-
-I am particularly interested in how we can put meaning even to abstract figures and mechanics in games. And how such activities might serve to bridge our understanding of topics that otherwise could be overwhelming to explore.
-
-<p align="center">☽ ☼ ☾</p>
-In the end, with Essom, such as it happens with Chess or Backgammon, it's up to the players how much they want to take off the game, after the game is played. And that is something I find exceptional about abstract games.
-
-
 <p align="center" style="margin:30px 0 30px 0;">
   <img src="../assets/images/essom2ggc.png" width="95%" style="border:3px solid grey; margin:5px;">
 </p>
 
-Thanks for reading, I know it was a bit long…
+In the end, with Essom, such as it happens with Chess or Backgammon, it's up to the players how much they want to take off the game, after the game is played. And that is something I find exceptional about abstract games. Thanks for reading, I know it was a bit long…
