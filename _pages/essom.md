@@ -27,7 +27,6 @@ The name Essom comes from the recalling of a word I heard once, which was surely
 
 For some, the board under the board could be Essom: that shadow that is cast by the real board, and where small Sils fall when Tsoas are pushed to holes. For others, Essom could be the area under the Tsoas, where Sils are hidden. Both views are valid, players search for Sils, but they also keep them hidden: in Essom both sides are experienced at the same time.
 
-<p align="center">☾ ☼ ☽</p>
 The game offers tactical depth, yet it is not a coincidence that memory is such a crucial element of gameplay. Hiding, protecting or searching, in Essom Sils are the heart of the heart. Remembering or forgetting where Sils are hidden is the starting or ending point for any possible strategy.
 
 <p align="center"  style="margin:30px 0 0 0;">☽ ☼ ☾</p>
@@ -46,7 +45,6 @@ The game offers tactical depth, yet it is not a coincidence that memory is such 
 
 Above all, I think Tsoas and Sils are symbols of families. Families that were broken, and families that need to be broken so identities can be restored. Essom represent the outcome of decisions that were made from a position of fear and hatred. The result of a military dictatorship. The struggles of the human rights organization “Abuelas de Plaza de Mayo”. And the search for the identity of a stolen generation.
 
-<p align="center">☾ ☼ ☽</p>
 To my own surprise, from playing Essom, I learned that the identity of the Sils was being stripped twice during the game: first when they were hidden (of course), and again when they were found. A Tsoa must be forced into a hole for a Sil to be revealed, just as an identity must be broken for another one to take shape. This reflects the complexity of the situation these families lived through and the impossible puzzle they were given to solve.
 
 <p align="center" style="margin:30px 0 30px 0;">
@@ -54,3 +52,5 @@ To my own surprise, from playing Essom, I learned that the identity of the Sils 
 </p>
 
 In the end, with Essom, such as it happens with Chess or Backgammon, it's up to the players how much they want to take off the game, after the game is played. And that is something I find exceptional about abstract games. Thanks for reading, I know it was a bit long…
+
+<p align="center">☾ ☼ ☽</p>
