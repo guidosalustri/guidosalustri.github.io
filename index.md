@@ -6,18 +6,27 @@ layout: single
 author_profile: true
 ---
 
-<code id="email" style="cursor:pointer;">
-<i class="fas fa-fw fa-envelope"></i> g.sabbsal@gmail.com
-</code>
-<span id="copied-message" style="display:none; color:green;">Copied!</span>
+<span id="email" style="cursor:pointer; display:inline-block;">
+  <i class="fas fa-fw fa-envelope"></i> g.sabbsal@gmail.com
+  <span id="copy-tooltip" style="display:none; position:absolute; background:#222; color:#fff; padding:2px 8px; border-radius:4px; margin-left:6px; font-size:0.9em;">Copied!</span>
+</span>
 <script>
-  document.getElementById('email').onclick = function() {
+  const emailSpan = document.getElementById('email');
+  const tooltip = document.getElementById('copy-tooltip');
+  emailSpan.addEventListener('click', function() {
     navigator.clipboard.writeText('g.sabbsal@gmail.com');
-    document.getElementById('copied-message').style.display = 'inline';
+    tooltip.style.display = 'inline';
     setTimeout(() => {
-      document.getElementById('copied-message').style.display = 'none';
+      tooltip.style.display = 'none';
     }, 1500);
-  };
+  });
+  emailSpan.addEventListener('mouseenter', function() {
+    tooltip.textContent = "Copy email";
+    tooltip.style.display = 'inline';
+  });
+  emailSpan.addEventListener('mouseleave', function() {
+    tooltip.style.display = 'none';
+  });
 </script>
 
 blaaaa blaaa blaaaaaaaaaaaa
