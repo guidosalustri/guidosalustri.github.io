@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-<code><i class="fas fa-fw fa-envelope">g.sabbsal@gmail.com</i></code>
+<code><i class="fas fa-fw fa-envelope"></i>g.sabbsal@gmail.com</code>
 
 blaaaa blaaa blaaaaaaaaaaaa
 
