@@ -5,29 +5,7 @@
 layout: single
 author_profile: true
 ---
-
-<span id="email" style="cursor:pointer; display:inline-block;">
-  <i class="fas fa-fw fa-envelope"></i> g.sabbsal@gmail.com
-  <span id="copy-tooltip" style="display:none; position:absolute; background:#222; color:#fff; padding:2px 8px; border-radius:4px; margin-left:6px; font-size:0.9em;">Copied!</span>
-</span>
-<script>
-  const emailSpan = document.getElementById('email');
-  const tooltip = document.getElementById('copy-tooltip');
-  emailSpan.addEventListener('click', function() {
-    navigator.clipboard.writeText('g.sabbsal@gmail.com');
-    tooltip.style.display = 'inline';
-    setTimeout(() => {
-      tooltip.style.display = 'none';
-    }, 1500);
-  });
-  emailSpan.addEventListener('mouseenter', function() {
-    tooltip.textContent = "Copy email";
-    tooltip.style.display = 'inline';
-  });
-  emailSpan.addEventListener('mouseleave', function() {
-    tooltip.style.display = 'none';
-  });
-</script>
+<i class="fas fa-fw fa-envelope"></i><code onclick="navigator.clipboard.writeText('g.sabbsal@gmail.com');" style="cursor:pointer;"> g.sabbsal@gmail.com</code>
 
 blaaaa blaaa blaaaaaaaaaaaa
 
