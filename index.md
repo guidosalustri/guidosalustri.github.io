@@ -8,15 +8,14 @@ author_profile: true
 
 <i class="fas fa-fw fa-envelope"></i>&nbsp;<code title="Copy Email" onclick="navigator.clipboard.writeText('g.sabbsal@gmail.com');" style="cursor:pointer;">g.sabbsal@gmail.com</code>
 
-Here I’ve selected three games I’ve created. Together, they provide a clear overview of my skills, experience, and versatility. They are award-winning games and have served as case studies for research, each with that spark a game needs to stand out. They reflect care, consideration, and dedication, qualities I’m proud to see across all my work.
+Hello! Here I’ve selected three games I’ve created. Together, they provide a clear overview of my skills, experience, and versatility. They are award-winning games and have served as case studies for research, each with that spark a game needs to stand out. They reflect care, consideration, and dedication, qualities I’m proud to see across all my work.
 
 ## Projects
 
 - #### The Last Vampire
-
+  <br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/DBZz-ncnevk?si=_5B6BWH2y8VWxiys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <p align="center">
-    <br>
     <img src="/assets/images/WinnerStamps2024_GameDesign_Black.png" width="25%" style="border:2px solid black; margin:2px;">
     <img src="/assets/images/NomineeStamps_BestInShow_Black.png" width="25%" style="border:2px solid black; margin:2px;">
     <br>
