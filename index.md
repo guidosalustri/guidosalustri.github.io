@@ -8,7 +8,7 @@ author_profile: true
 
 <i class="fas fa-fw fa-envelope"></i>&nbsp;<code title="Copy Email" onclick="navigator.clipboard.writeText('g.sabbsal@gmail.com');" style="cursor:pointer;">g.sabbsal@gmail.com</code>
 
-Here I’ve selected 3 games I’ve created, showcasing my skills, experience, and versatility. They are award-winning games and have served as case studies for research. They reflect care, consideration, and dedication, qualities I bring to all my work.
+Here I’ve selected three games I’ve created. Together, they provide a clear overview of my skills, experience, and versatility. They are award-winning games and have served as case studies for research, each with that spark a game needs to stand out. They reflect care, consideration, and dedication, qualities I’m proud to see across all my work.
 
 ## Projects
 
