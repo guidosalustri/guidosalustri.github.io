@@ -14,9 +14,6 @@ Here I’ve selected 3 games I’ve created, showcasing my skills, experience, a
 
 - #### The Last Vampire
 
-  [The Last Vampire](https://guidosalustri.github.io/lastvampire/) is an <a href="https://game.speldesign.uu.se/projects/analog-games/the-last-vampire/" target="_blank" rel="noopener noreferrer">award-winning</a> social deduction board game where players must navigate deception, manage scarce blood resources and outwit their foes to survive. It's available in analog and digital formats, and it's been used as a case study for research both in psychology and game design.
-  <br>
-
   <iframe width="560" height="315" src="https://www.youtube.com/embed/DBZz-ncnevk?si=_5B6BWH2y8VWxiys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <p align="center">
     <br>
@@ -24,6 +21,8 @@ Here I’ve selected 3 games I’ve created, showcasing my skills, experience, a
     <img src="/assets/images/NomineeStamps_BestInShow_Black.png" width="25%" style="border:2px solid black; margin:2px;">
     <br>
   </p>
+
+    [The Last Vampire](https://guidosalustri.github.io/lastvampire/) is an <a href="https://game.speldesign.uu.se/projects/analog-games/the-last-vampire/" target="_blank" rel="noopener noreferrer">award-winning</a> social deduction board game where players must navigate deception, manage scarce blood resources and outwit their foes to survive. It's available in analog and digital formats, and it's been used as a case study for research both in psychology and game design.
 
 - #### Essom
   <p align="center" style="margin-top: 30px;">
