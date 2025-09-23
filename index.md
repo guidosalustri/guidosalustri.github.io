@@ -11,9 +11,9 @@ author_profile: true
 Hello! Here I’ve selected three games I’ve created. Together, they provide a clear overview of my skills, experience, and versatility. They are award-winning games and have served as case studies for research, each with that spark a game needs to stand out. They reflect care, consideration, and dedication, qualities I’m proud to see across all my work.
 
 # Projects
-
+---
 - #### The Last Vampire
-  <div style="margin: 30px 0 0 0;">
+  <div style="margin: 30px 0 10px 0;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/DBZz-ncnevk?si=_5B6BWH2y8VWxiys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
   <p align="center">
