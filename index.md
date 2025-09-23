@@ -8,10 +8,10 @@ author_profile: true
 
 <i class="fas fa-fw fa-envelope"></i>&nbsp;<code title="Copy Email" onclick="navigator.clipboard.writeText('g.sabbsal@gmail.com');" style="cursor:pointer;">g.sabbsal@gmail.com</code>
 
-¡Hola! I’m Guido, a game developer with a master’s in Game Design from Uppsala University and a background in Biology and Bioinformatics. I’m Argentinean/Italian and have lived and worked in Argentina, Australia, and Sweden. I focus on mobile games, board games, and hybrid experiences that blend analog and digital play. I am interest in exploreing how these formats can adapt and combine to create new forms of play.
+Here I’ve selected three games I’ve created. Together, they provide a clear overview of my skills, experience, and versatility. They are award-winning games and have served as case studies for research, each with that spark a game needs to stand out. They reflect care, consideration, and dedication, qualities I’m proud to see across all my work.
 
-# Projects
----
+## Projects
+
 - #### The Last Vampire
 
   [The Last Vampire](https://guidosalustri.github.io/lastvampire/) is an <a href="https://game.speldesign.uu.se/projects/analog-games/the-last-vampire/" target="_blank" rel="noopener noreferrer">award-winning</a> social deduction board game where players must navigate deception, manage scarce blood resources and outwit their foes to survive. It's available in analog and digital formats, and it's been used as a case study for research both in psychology and game design.
