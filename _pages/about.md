@@ -9,8 +9,8 @@ title: "About Me"
 ---
 - `Master in Game Design`<br>
   `Uppsala University`
-- `Licentiate in Biological Sciences...................<span style="background:black; color:white; padding:2px 6px; border-radius:4px;">2012-2019</span>`
-  University of Buenos Aires
+- <code>Licentiate in Biological Sciences...............</code><code style="background:black; color:white; padding:2px 6px; border-radius:4px;">2012-2019</code>
+  <code>University of Buenos Aires</code>
 
 ---
 
