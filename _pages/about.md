@@ -10,7 +10,7 @@ title: "About Me"
 - `Master in Game Design` ............................................ <code style="background:black; color:white; padding:2px 6px; border-radius:4px;">2023-2025</code><br>
 &nbsp;Uppsala University.
 - <code>Licentiate in Biological Sciences</code> ....................... <code style="background:black; color:white; padding:2px 6px; border-radius:4px;">2012-2019</code><br>
-   University of Buenos Aires.
+&nbsp;&nbsp;University of Buenos Aires.
 
 ### Experience
 ---
