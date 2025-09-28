@@ -9,7 +9,7 @@ title: "String Theory"
 
 String Theory is an action-puzzle, top-down 2D space game where players maneuver a spaceship that traverses the sky’s constellations. Each level represents one of the twelve zodiac constellations, and the goal is to draw each constellation by connecting its given stars. Sounds simple and straightforward, right? But maybe not quite…
 
-<p align="center">⭐<br>⭐<code><a href="https://drive.google.com/drive/folders/1YpS6nY7ej0Vf_0qD2wnZ66WQ_0eMDCPw" target="_blank" rel="noopener noreferrer">A Windows build is available for download</a>.</code>⭐<br>⭐</p>
+<p align="center">⭐<code><a href="https://drive.google.com/drive/folders/1YpS6nY7ej0Vf_0qD2wnZ66WQ_0eMDCPw" target="_blank" rel="noopener noreferrer">A Windows build is available for download</a>.</code>⭐<br>⭐</p>
 
 Through gameplay the ship alternates between two states: orbiting stars, which recharge its engine with gravitational energy, and free flight, which consumes energy. Players must balance energy usage, timing of ejection from orbits, and strategic path choices to avoid all obstacles. In this way, quick reactions, fast decision-making and energy management become central components of the game.
 
@@ -22,8 +22,9 @@ Overall, we aimed to nurture players’ frustration as gameplay unfolds and to e
 
 <div style="margin: 30px 0 35px 0;">
   <iframe src="https://drive.google.com/file/d/1Ei_piX66B7IYlXH_iWGcYHz8CxF6X3gB/preview" width="100%" height="auto" style="aspect-ratio: 16 / 9;" allow="autoplay"></iframe>
-</div>
 <p align="center">⭐⭐⭐⭐</p>
+</div>
+
 Moreover, String Theory has served as a case study, resulting in a <a href="https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1965699&dswid=3547" target="_blank" rel="noopener noreferrer" title="Visit DiVA">Publication</a> that explores how distinct in-game behaviours vary based on players’ self-reported intrinsic motivations and challenge types preferences. To investigate this, diverse in-game data were collected and analyzed to identify behavioral patterns.
 
 
