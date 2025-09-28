@@ -33,4 +33,9 @@ Moreover, String Theory has served as a case study, resulting in a <a href="http
 <p align="center" style="margin: 0px 0 40px 0;">
   <img src="../assets/images/st_heatmap.png" width="100%">
 </p>
+
+<p align="center" style="margin: 30px 0 40px 0;">
+  <img src="../assets/images/starmotion.gif" width="100%">
+</p>
+
 <p align="center">⭐⭐⭐⭐</p>
