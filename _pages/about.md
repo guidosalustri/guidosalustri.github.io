@@ -7,9 +7,9 @@ title: "About Me"
 
 # Education
 ---
-- `Master in Game Design
-  Uppsala University`
-- `Licentiate in Biological Sciences      2012-2019`
+- `Master in Game Design`<br>
+  `Uppsala University`
+- `Licentiate in Biological Sciences...................<span style="background:black; color:white; padding:2px 6px; border-radius:4px;">2012-2019</span>`
   University of Buenos Aires
 
 ---
