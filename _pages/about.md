@@ -7,8 +7,14 @@ title: "About Me"
 
 # Education
 ---
-- `Licentiate in Biological Sciences (University of Buenos Aires)`
-- `Master in Game Design (Uppsala University)`
+- `Master in Game Design
+  Uppsala University`
+- `Licentiate in Biological Sciences      2012-2019`
+  University of Buenos Aires
 
+---
+
+# EXPERIENCE
+---
 I feel comfortable both designing and programming, and I am self-sufficient enough to handle solo projects. However, I prefer working as part of a team, as I find it more motivating, and collaboration is one of the great appeals of game development for me. My profile offers a unique blend of work experiences, education, and cultural backgrounds. I’ve found this diversity can be a real asset in game development, adding complementary and distict perspectives to games.
 
