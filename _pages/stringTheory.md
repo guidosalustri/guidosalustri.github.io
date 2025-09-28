@@ -40,4 +40,4 @@ We’ve been lucky to watch a lot of people play the game. It’s definitely not
 <p align="center" style="margin: 30px 0 40px 0;">
   <img src="../assets/images/starmotion.gif" width="35%">
 </p>
-<p align="center">⭐⭐</p>
+<p align="center">⭐⭐⭐</p>
