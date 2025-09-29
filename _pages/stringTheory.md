@@ -24,7 +24,7 @@ Overall, we aimed to nurture players’ frustration as gameplay unfolds and to e
   <iframe src="https://drive.google.com/file/d/1Ei_piX66B7IYlXH_iWGcYHz8CxF6X3gB/preview" width="100%" height="auto" style="aspect-ratio: 16 / 9;" allow="autoplay"></iframe>
 </div>
 
-Moreover, String Theory has served as a case study, resulting in a <a href="https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1965699&dswid=3547" target="_blank" rel="noopener noreferrer" title="Visit DiVA">Publication</a> that explores how distinct in-game behaviours vary based on players’ self-reported intrinsic motivations and challenge types preferences. To investigate this, diverse in-game data were collected and analyzed to identify behavioral patterns.
+Moreover, String Theory has served as a case study, resulting in a <a href="https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1965699&dswid=3547" target="_blank" rel="noopener noreferrer" title="Visit DiVA">publication</a> that explores how distinct in-game behaviours vary based on players’ self-reported intrinsic motivations and challenge types preferences. To investigate this, diverse in-game data were collected and analyzed to identify behavioral patterns.
 
 
 <p align="center">
