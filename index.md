@@ -22,7 +22,7 @@ Hello! Here I’ve selected three games I’ve created. Together, they provide a
     <br>
   </p>
 
-    [The Last Vampire](https://guidosalustri.github.io/lastvampire/) is an <a href="https://game.speldesign.uu.se/projects/analog-games/the-last-vampire/" target="_blank" rel="noopener noreferrer">award-winning</a> social deduction board game where players must navigate deception, manage scarce blood resources and outwit their foes to survive. It's available in analog and digital formats, and it's been used as a case study for research both in psychology and game design.
+    [The Last Vampire](https://guidosalustri.github.io/lastvampire/) is an <a href="https://game.speldesign.uu.se/projects/analog-games/the-last-vampire/" target="_blank" rel="noopener noreferrer">award-winning</a> social deduction board game where players must navigate deception, manage scarce blood resources and outwit their foes to survive. It's available in analog and digital formats, and it's been used as a case study for research both in psychology and <a href="https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1874280&dswid=-253" target="_blank" rel="noopener noreferrer" title="Visit DiVA">game design</a>.
 
 - #### Essom
   <p align="center" style="margin-top: 30px;">
