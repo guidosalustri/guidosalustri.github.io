@@ -15,14 +15,14 @@ title: "About Me"
 
 ### Experience
 ---
-I completed an Erasmus traineeship in 2024-2025, where I collaborated with Ariel Manzur, co-founder of the Godot Engine, working as a teaching assistant for courses in game design and game programming using Godot.
+I completed an `Erasmus traineeship in 2024-2025`, where I collaborated with Ariel Manzur, co-founder of the Godot Engine, working as a teaching assistant for courses in game design and game programming using Godot.
 
-I also took part in a tutoring programme run by the Uppsala University Innovation Center, where I received guidance on financial sustainability, funding opportunities, and stakeholder analysis, as well as support to attend Spiel Essen 2025.
+I also took part in a `tutoring programme` run by the Uppsala University `Innovation Center`, where I received guidance on financial sustainability, funding opportunities, and stakeholder analysis, as well as funding to attend `Spiel Essen 2025`.
 
-In addition, I participated in several game jams and workshops, such as the NASG un-Jam 2024 at the University of Skövde, and my games have won awards at conferences and served as the basis for research publications.
+In addition, I participated in several game jams and workshops, such as the `NASG un-Jam 2024 at the University of Skövde`, and my games have won awards at conferences and served as the basis for research publications.
 
 
-I am comfortable with both game design and programming and have the skills to manage solo projects independently. However, I prefer working as a part of a team, as collaborative environments are one of the aspects I value most about game dev. My profile brings together diverse work experiences, education, and cultural backgrounds, which I have found to be a strong asset in game development, enriching projects with complementary and distinct perspectives.
+I am comfortable with both `game design` and `programming` and have the skills to manage solo projects independently. However, I prefer working as a part of a team, as `collaborative environments` are one of the aspects I value most about game dev. My profile brings together `diverse` work experiences, education, and cultural backgrounds, which I have found to be a strong asset in game development, enriching projects with complementary and distinct perspectives.
 
 While this portfolio highlights my work in games, I am always happy to share more about my background in biology and bioinformatics upon request. My experience in this field includes research and lab work, posters, conferences, scholarships, and specialized courses.
 
