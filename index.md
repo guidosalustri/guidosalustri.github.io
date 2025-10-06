@@ -8,7 +8,7 @@ author_profile: true
 
 <i class="fas fa-fw fa-envelope"></i>&nbsp;<code title="Copy Email" onclick="navigator.clipboard.writeText('g.sabbsal@gmail.com');" style="cursor:pointer;">g.sabbsal@gmail.com</code>
 
-Hello! Here I’ve selected three games I’ve created. Together, they provide a clear overview of my skills, experience, and versatility. They are award-winning games and have served as case studies for research, each with that spark a game needs to stand out. They reflect care, consideration, and dedication, qualities I’m proud to see across all my work.
+Hello! Here I’ve selected three games I’ve created. Together, they provide a clear overview of my skills, experience, and versatility. These are award-winning games and have served as case studies for research. Each one focuses on different aspects of game design and requires a different set of skills to craft. Still, I find all of them reflect the same care and dedication, qualities I’m proud to see throughout all my work.
 
 # Projects
 ---
@@ -31,7 +31,7 @@ Hello! Here I’ve selected three games I’ve created. Together, they provide a
     <sub><i>“Even when Buried, Memory Grows.”</i></sub>
   </p>
   
-  [Essom](https://guidosalustri.github.io/essom/) is an <a href="https://game.speldesign.uu.se/projects/analog-games/essom/" target="_blank" rel="noopener noreferrer">award-winning</a> abstract strategy game for two players. It is a solo project that aesthetically aims to match classical games while keeping gameplay more casual and giving players the opportunity to bluff. The game also explores how metaphors can be embedded in abstract games and how meaning can be conveyed through game mechanics and abstract figures. The original version of the game was crafted in ceramic and wood, and the game is also available in digital format.
+  [Essom](https://guidosalustri.github.io/essom/) is an <a href="https://game.speldesign.uu.se/projects/analog-games/essom/" target="_blank" rel="noopener noreferrer">award-winning</a> abstract strategy game for two players. It is a solo project that aesthetically aims to match classical games while keeping the gameplay more casual. It combines hidden information with strategic elements, an uncommon mix in abstract games that allows players to rely on bluffing as another game tactic. The game also explores how metaphors can be embedded in abstract games and how meaning can be conveyed through game mechanics and abstract figures. The original version of the game was crafted in ceramic and wood, and the game is also available in digital format.
 
 - #### String Theory
   <div style="margin: 30px 0 10px 0;">
