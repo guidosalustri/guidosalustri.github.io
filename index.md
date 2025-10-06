@@ -31,7 +31,7 @@ Hello! Here I’ve selected three games I’ve created. Together, they provide a
     <sub><i>“Even when Buried, Memory Grows.”</i></sub>
   </p>
   
-  [Essom](https://guidosalustri.github.io/essom/) is an <a href="https://game.speldesign.uu.se/projects/analog-games/essom/" target="_blank" rel="noopener noreferrer">award-winning</a> abstract strategy game for two players. It is a solo project that aesthetically aims to match classical games while keeping the gameplay more casual. It combines hidden information with strategic elements, an uncommon mix in abstract games that allows players to rely on bluffing as another game tactic. The game also explores how metaphors can be embedded in abstract games and how meaning can be conveyed through game mechanics and abstract figures. The original version of the game was crafted in ceramic and wood, and the game is also available in digital format.
+  [Essom](https://guidosalustri.github.io/essom/) is an <a href="https://game.speldesign.uu.se/projects/analog-games/essom/" target="_blank" rel="noopener noreferrer">award-winning</a> abstract strategy game for two players. It is a solo project that aesthetically aims to match classical games while keeping gameplay somewhat more casual, combining hidden information with strategic elements. The game also explores how metaphors can be embedded in abstract games and how meaning can be conveyed through game mechanics and abstract figures. The original version of the game was crafted in ceramic and wood, and the game is also available in digital format.
 
 - #### String Theory
   <div style="margin: 30px 0 10px 0;">
