@@ -35,7 +35,7 @@ Moreover, String Theory has served as a case study, resulting in a <a href="http
 </p>
 
 
-We’ve been lucky to watch a lot of people play the game. It’s definitely not for everyone, but we’ve noticed that for its target audience the game has a good retention rate, with specific players consistently coming back to it. Still, we think we can improve it even more. Right now, we are refining the gameplay, mostly working on fine-tuning the game flow, since it’s such a crucial aspect for games where frustration is a core element. We are also taking this opportunity to work on the visuals of the game: the plan is to re-do them in clay!!!
+We’ve been lucky to watch a lot of people play the game. It’s definitely not for everyone, but we’ve noticed that for its target audience the game has a good retention rate, with specific players consistently coming back to it. Still, we think we can improve it even more. Right now, we are refining the gameplay, mostly working on fine-tuning the game flow, since it’s such a crucial aspect for games where frustration is a core element. We are also taking the opportunity to work on the visuals of the game: the plan is to re-do them in clay!!!
 
 <p align="center" style="margin: 30px 0 40px 0;">
   <img src="../assets/images/starmotion.gif" width="35%">
