@@ -15,7 +15,7 @@ title: "About Me"
 
 ### Experience
 ---
-I completed an <span style="background: #E9DCBE;">Erasmus traineeship</span> in 2024-2025, where I collaborated with Ariel Manzur, co-founder of the Godot Engine, and worked as a teaching assistant for courses in game design and game programming.
+I completed an <span style="background:#E9DCBE; padding:2px 2px; border-radius:4px;">Erasmus traineeship</span> in 2024-2025, where I collaborated with Ariel Manzur, co-founder of the Godot Engine, and worked as a teaching assistant for courses in game design and game programming.
 
 I also participated in a tutoring programme run by the **Innovation Center** of Uppsala University, where I received guidance on financial sustainability and was granted funding to attend **Spiel Essen 2025** and produce prints of the board games I created. Additionally, I joined several game jams and workshops, such as the **NASG un-Jam 2024** at the University of Skövde, and my games have won awards at conferences and served as the basis for research publications.
 
