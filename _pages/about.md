@@ -3,16 +3,18 @@ permalink: /about/
 title: "About Me"
 ---
 
-¡Hola! I’m Guido, a game developer with a master’s in Game Design from Uppsala University and a background in Biology and Bioinformatics. I’m Argentinean/Italian and have lived and worked in Argentina, Australia, and Sweden. I focus on mobile games, board games, and hybrid experiences that blend analog and digital play. I am interest in exploreing how these formats can adapt and combine to create new forms of play.
+¡Hola! I’m Guido, a game developer with a master’s in Game Design from Uppsala University and a background in Biology and Bioinformatics. I’m Argentinean/Italian and have lived and worked in Argentina, Australia, and Sweden. I focus on mobile games, board games, and hybrid experiences that blend analog and digital play, exploring how these formats can combine to create new forms of interaction. I like to think of games not only as entertainment but also as tools for learning, ways to foster social connection, and as a means of artistic expression.
 
 ### Education
 ---
+<br>
 - `Master in Game Design` <code style="float: right; background:black; color:white; padding:2px 6px; border-radius:4px;">2023-2025</code><br>
 &nbsp;Uppsala University.
 <br>
 <br>
 - `Licentiate in Biological Sciences` <code style="float: right; background:black; color:white; padding:2px 6px; border-radius:4px;">2012-2019</code><br>
 &nbsp;University of Buenos Aires.
+<br>
 
 ### Experience
 ---
