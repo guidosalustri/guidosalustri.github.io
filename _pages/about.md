@@ -7,10 +7,10 @@ title: "About Me"
 
 ### Education
 ---
-- `Master in Game Design`       ................................       <code style="float: right; background:#eaecef; color:white; padding:2px 6px; border-radius:4px;">2023-2025</code><br>
+- `Master in Game Design` <code style="float: right; background:black; color:white; padding:2px 6px; border-radius:4px;">2023-2025</code><br>
 &nbsp;Uppsala University.
 <br>
-- <code>Licentiate in Biological Sciences</code> ....................... <code align="right" style="background:black; color:white; padding:2px 6px; border-radius:4px;">2012-2019</code><br>
+- `Licentiate in Biological Sciences` <code style="float: right; background:black; color:white; padding:2px 6px; border-radius:4px;">2012-2019</code><br>
 &nbsp;University of Buenos Aires.
 
 ### Experience
