@@ -4,9 +4,9 @@ title: "Essom"
 ---
 
 <p align="center">☽ ☼ ☾</p>
-At its core, Essom was to create as a game that could stand among ancient abstract classics, yet raise its own identity rooted in a native Latin American aesthetic and perspective. Crafted from ceramic, wood, and felt balls, the game offers strategic depth without relying solely on pure tactical or logical thinking. Since it is not a “perfect information” game like most abstracts, it feels more intuitive and casual, where bluffing can also become part of play.
+At its core, Essom was created as a game that could stand among ancient abstract classics, yet raises its own identity rooted in native Latin American aesthetics and perspectives. Crafted from ceramic, wood, and felt balls, the game offers strategic depth but without relying solely on pure tactical or logical thinking. Since it is not a “perfect information” game, it offers a more intuitive and casual experience, where bluffing can also become part of play.
 
-In the game, players need to search and retrieve hidden tokens called Sils. Sils are hidden (by players) under other pieces called Tsoas. A Tsoa with a Sil inside is called a Tsoa-Sil. To retrieve a Sil, a Tsoa-Sil needs to be forced into a cell with a hole.
+Essom is a 1 vs 1 game where players need to search and retrieve hidden tokens called Sils. Sils are hidden (by players) under other pieces called Tsoas. A Tsoa with a Sil inside is called a Tsoa-Sil. To retrieve a Sil, a Tsoa-Sil needs to be forced into a cell with a hole.
 
 <p align="center"  style="margin:40px 0 0 0;"></p>
 ---
@@ -20,9 +20,9 @@ In the game, players need to search and retrieve hidden tokens called Sils. Sils
 
 Essom won <a href="https://game.speldesign.uu.se/projects/analog-games/essom/" target="_blank" rel="noopener noreferrer">Best Game Design</a> at the Gotland Game Conference 2025 and received funding to attend Spiel Essen 2025. Although I strongly recommend experiencing the game in its analog form, a <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3546913194" target="_blank" rel="noopener noreferrer" title="Visit Steam">Steam Workshop</a> on Tabletop Simulator is also available. 
 
-Off the top of my head, I can think of many games and pseudo-games that inspired it: Komikan, Backgammon, Gungi, Tak, Mancala, Xul Chess, and Go.
+Off the top of my head, I can think of many games and pseudo-games that inspired it: Komikan, Backgammon, Gungi, Tak, Mancala, Xul Chess, and Go among others.
 
-Abstract board games have always drawn my attention since I was a kid. I once believed this fascination came from their strategic depth, emergence, minimalism, and low cognitive load. But now I understand it was something more: the mysterious tone around them, their potential for symbolism, and the way they convey meaning stripped of narrative. In abstract board games, geometric figures interacting with each other are enough to tell a story, without language, yet with infinite paths to be told. Essom was rooted in that feeling.
+As a kid abstract board games have always drawn my attention. I used to believe this fascination came from their strategic depth, emergence, minimalism, and low cognitive load. But now I understand it was something else. The symbolism, the meaning stripped of narrative gave them a mysterious tone that amazed me. Is this feeling what nourished Essom. Geometric figures that open infinite paths to tell the same story without using a single word.
 
 <iframe src="https://drive.google.com/file/d/1grMPTFva3qjMSKzPUWEm8MeUwoDNK63h/preview" width="640" height="720" style="border:3px solid grey;" allow="autoplay" style="margin:20px 0 30px 0;"></iframe>
 
