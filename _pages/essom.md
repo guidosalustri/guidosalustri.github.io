@@ -8,6 +8,7 @@ The seed of Essom was to create a game that could stand among ancient abstract c
 
 In the game, players need to search and retrieve hidden tokens called Sils. Sils are hidden (by players) under other pieces called Tsoas. A Tsoa with a Sil inside is called a Tsoa-Sil. To retrieve a Sil, a Tsoa-Sil needs to be forced into a cell with a hole.
 
+<p align="center"  style="margin:60px 0 0 0;"></p>
 ---
 <p align="center">
   <img src="../assets/images/essom_render.png" width="40%" style="border:3px solid grey; margin:5px;">
@@ -17,6 +18,8 @@ In the game, players need to search and retrieve hidden tokens called Sils. Sils
 ---
 
 Essom won <a href="https://game.speldesign.uu.se/projects/analog-games/essom/" target="_blank" rel="noopener noreferrer">Best Game Design</a> at the Gotland Game Conference 2025 and received funding to attend Spiel Essen 2025. Although I strongly recommend experiencing the game in its analog form, a <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3546913194" target="_blank" rel="noopener noreferrer" title="Visit Steam">Steam Workshop</a> on Tabletop Simulator is also available. 
+
+Off the top of my head, I can think of many games and pseudo-games that inspired it: Komikan, Backgammon, Gungi, Tak, Mancala, Xul Chess, and Go.
 
 Abstract board games have always drawn my attention since I was a kid. I once believed this fascination came from their strategic depth, emergence, minimalism, and low cognitive load. But now I understand it was something more: the mysterious tone around them, their potential for symbolism, and the way they convey meaning stripped of narrative. In abstract board games, geometric figures interacting with each other are enough to tell a story, without language, yet with infinite paths to be told. Essom was rooted in that feeling.
 
