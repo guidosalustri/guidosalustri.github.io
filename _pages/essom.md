@@ -8,7 +8,7 @@ At its core, Essom was to create as a game that could stand among ancient abstra
 
 In the game, players need to search and retrieve hidden tokens called Sils. Sils are hidden (by players) under other pieces called Tsoas. A Tsoa with a Sil inside is called a Tsoa-Sil. To retrieve a Sil, a Tsoa-Sil needs to be forced into a cell with a hole.
 
-<p align="center"  style="margin:30px 0 0 0;"></p>
+<p align="center"  style="margin:40px 0 0 0;"></p>
 ---
 <p align="center">
   <img src="../assets/images/essom_render.png" width="40%" style="border:3px solid grey; margin:5px;">
