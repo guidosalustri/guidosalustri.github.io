@@ -4,11 +4,11 @@ title: "Essom"
 ---
 
 <p align="center">☽ ☼ ☾</p>
-The seed of Essom was to create a game that could stand among ancient abstract classics, yet raise its own identity rooted in a native Latin American aesthetic and perspective. Crafted from ceramic, wood, and felt balls, the game offers strategic depth without relying solely on pure tactical or logical thinking. Since it is not a “perfect information” game like most abstracts, it feels more intuitive and casual, where bluffing can also become part of play.
+At its core, Essom was to create as a game that could stand among ancient abstract classics, yet raise its own identity rooted in a native Latin American aesthetic and perspective. Crafted from ceramic, wood, and felt balls, the game offers strategic depth without relying solely on pure tactical or logical thinking. Since it is not a “perfect information” game like most abstracts, it feels more intuitive and casual, where bluffing can also become part of play.
 
 In the game, players need to search and retrieve hidden tokens called Sils. Sils are hidden (by players) under other pieces called Tsoas. A Tsoa with a Sil inside is called a Tsoa-Sil. To retrieve a Sil, a Tsoa-Sil needs to be forced into a cell with a hole.
 
-<p align="center"  style="margin:60px 0 0 0;"></p>
+<p align="center"  style="margin:30px 0 0 0;"></p>
 ---
 <p align="center">
   <img src="../assets/images/essom_render.png" width="40%" style="border:3px solid grey; margin:5px;">
@@ -16,6 +16,7 @@ In the game, players need to search and retrieve hidden tokens called Sils. Sils
   <img src="../assets/images/img_6760.jpg" width="40%" style="border:3px solid grey; margin:5px;">
 </p>
 ---
+<p align="center"  style="margin:0 0 40px 0;"></p>
 
 Essom won <a href="https://game.speldesign.uu.se/projects/analog-games/essom/" target="_blank" rel="noopener noreferrer">Best Game Design</a> at the Gotland Game Conference 2025 and received funding to attend Spiel Essen 2025. Although I strongly recommend experiencing the game in its analog form, a <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3546913194" target="_blank" rel="noopener noreferrer" title="Visit Steam">Steam Workshop</a> on Tabletop Simulator is also available. 
 
