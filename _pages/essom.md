@@ -4,9 +4,9 @@ title: "Essom"
 ---
 
 <p align="center">☽ ☼ ☾</p>
-For a long time I have been willing to take the challenge of solo designing an abstract game. I am particularly interested in the symbolism of abstract games and how people can embed narrative and meaning, even, into geometry shapes and mechanics. And how such activities might serve to bridge our understanding of topics that otherwise could be overwhelming to explore. For Essom, my goal was clear: to create a game that was a metaphor, but without neglecting the game that held the metaphor. 
+The seed of Essom was to create a game that could stand among ancient abstract classics, yet raise its own identity rooted in a native Latin American aesthetic and perspective. Crafted from ceramic, wood, and felt balls, the game offers strategic depth without relying solely on pure tactical or logical thinking. Since it is not a “perfect information” game like most abstracts, it feels more intuitive and casual, where bluffing can also become part of play.
 
-From a design perspective I wanted to create a game that could offer strategic depth, but without relying completely on pure skill and logical thinking. I wanted gameplay to be somewhat more casual and relaxing than Go or Chess. Maybe closer to match the aesthetics of Backgammon where strategy is needed but it's also limited by luck factors. After all, Backgammon is such a beautifully designed game with its own metaphor in it: as  dice rolling representing the stars under which one is born.
+In the game, players need to search and retrieve hidden tokens called Sils. Sils are hidden (by players) under other pieces called Tsoas. A Tsoa with a Sil inside is called a Tsoa-Sil. To retrieve a Sil, a Tsoa-Sil needs to be forced into a cell with a hole.
 
 ---
 <p align="center">
@@ -16,10 +16,9 @@ From a design perspective I wanted to create a game that could offer strategic d
 </p>
 ---
 
-
-In Essom, players need to search and retrieve hidden tokens called Sils. Sils are hidden (by players) under other pieces called Tsoas. A Tsoa with a Sil inside is called a Tsoa-Sil. To retrieve a Sil, a Tsoa-Sil needs to be forced into a cell with a hole. The game blends tactical depth with casual play. The hidden Sils not only adds uncertainty to the game, it also allows players to rely on bluffing as a tactic, an element that is rarely seen in abstract games.
-
 Essom won <a href="https://game.speldesign.uu.se/projects/analog-games/essom/" target="_blank" rel="noopener noreferrer">Best Game Design</a> at the Gotland Game Conference 2025 and received funding to attend Spiel Essen 2025. Although I strongly recommend experiencing the game in its analog form, a <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3546913194" target="_blank" rel="noopener noreferrer" title="Visit Steam">Steam Workshop</a> on Tabletop Simulator is also available. 
+
+Abstract board games have always drawn my attention since I was a kid. I once believed this fascination came from their strategic depth, emergence, minimalism, and low cognitive load. But now I understand it was something more: the mysterious tone around them, their potential for symbolism, and the way they convey meaning stripped of narrative. In abstract board games, geometric figures interacting with each other are enough to tell a story, without language, yet with infinite paths to be told. Essom was rooted in that feeling.
 
 <iframe src="https://drive.google.com/file/d/1grMPTFva3qjMSKzPUWEm8MeUwoDNK63h/preview" width="640" height="720" style="border:3px solid grey;" allow="autoplay" style="margin:20px 0 30px 0;"></iframe>
 
