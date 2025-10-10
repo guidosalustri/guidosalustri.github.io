@@ -26,7 +26,7 @@ As a kid, abstract board games have always drawn my attention. I used to think m
 
 <iframe src="https://drive.google.com/file/d/1grMPTFva3qjMSKzPUWEm8MeUwoDNK63h/preview" width="640" height="720" style="border:3px solid grey;" allow="autoplay" style="margin:20px 0 30px 0;"></iframe>
 
-The name Essom comes from the recalling of a word I heard once, which was surely not close enough to the word Essom. I forget the language, how it was spelled, and how the word sounded; just its meaning stayed with me. This un-remembered word was used to name the place where all lost things go, and this is the meaning the new chimera, Essom, has. I guess at this point, the real one is probably at the real Essom, right next to my car keys.
+The name Essom comes from the recalling of a word I heard once, which was surely not close enough to the word Essom. I forget the language, how it was spelled, and how the word sounded; just its meaning stayed with me. This un-remembered word was used to name the place where all lost things go, and this is the meaning the new chimera, Essom, has. I guess at this point, the real one is probably lost in the real Essom, right next to the necklace my grandma gave me and I lost in the ocean.
 
 For some, the board under the board could be Essom: the shadow cast by the real board, where small Sils fall when Tsoas are pushed into holes. For others, Essom might be the area under the Tsoas, where Sils are hidden. Both views are valid: players search for Sils, but they also keep them hidden. In Essom both sides are experienced at the same time.
 
