@@ -4,7 +4,7 @@ title: "Essom"
 ---
 
 <p align="center">☽ ☼ ☾</p>
-At its core, Essom was created as a game that could stand among ancient abstract classics, yet raises its own identity rooted in native Latin American aesthetics and perspectives. Crafted from ceramic, wood, and felt balls, the game offers strategic depth but without relying solely on pure tactical or logical thinking. Since it is not a “perfect information” game, it offers a more intuitive and casual experience, where bluffing can also become part of play.
+At its core, Essom was created as a game that could stand among ancient abstract classics, yet raise its own identity rooted in native Latin American aesthetics and perspective. Crafted from ceramic, wood, and felt balls, the game offers strategic depth but without relying solely on tactical or logical thinking. Since it is not a “perfect information” game, it provides a more intuitive and casual experience, where bluffing can also become part of play.
 
 Essom is a 1v1 game where players need to search and retrieve hidden tokens called Sils. Sils are hidden (by players) under other pieces called Tsoas. A Tsoa with a Sil inside is called a Tsoa-Sil. To retrieve a Sil, a Tsoa-Sil needs to be forced into a cell with a hole.
 
