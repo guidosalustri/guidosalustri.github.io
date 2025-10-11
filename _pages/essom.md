@@ -46,14 +46,10 @@ The game offers tactical depth, yet it is not a coincidence that memory is such 
 ---
 <p align="center"  style="margin:0 0 40px 0;">☽ ~~~~~  ☽ ☼ ☾  ~~~~~ ☾</p>
 
-Above all, I think Tsoas and Sils are symbols of families. Families that were broken, and families that need to be broken so identities can be restored. Essom represent the outcome of decisions that were made from a position of fear and hatred. The result of a military dictatorship. The struggles of the human rights organization “Abuelas de Plaza de Mayo”. And the search for the identity of a stolen generation.
-
-To my own surprise, from playing Essom, I learned that the identity of the Sils was being stripped twice during the game: first when they were hidden (of course), and again when they were found. A Tsoa must be forced into a hole for a Sil to be revealed, just as an identity must be broken for another one to take shape. This reflects the complexity of the situation these families lived through and the impossible puzzle they were given to solve.
+Above all, I believe the game represents the search for the identity of a generation that was stolen, where Tsoas and Sils symbolize families. A Tsoa needs to be cornered and pushed; a Sil needs to fall to be reclaimed, an identity must be broken for another to be restored. This is the puzzle Essom presents: beyond winning or losing, players can choose to explore, reflect, and empathise, or instead center in having fun.
 
 <p align="center" style="margin:30px 0 30px 0;">
   <img src="../assets/images/essom2ggc.png" width="95%" style="border:3px solid grey; margin:5px;">
 </p>
-
-In the end, with Essom, such as it happens with Chess or Backgammon, it's up to the players how much they want to take off the game, after the game is played. And that is something I find exceptional about abstract games. Thanks for reading, I know it was a bit long…
 
 <p align="center">☾ ☼ ☽</p>
