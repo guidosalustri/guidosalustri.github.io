@@ -30,8 +30,6 @@ The name Essom comes from the recalling of a word I heard once, which was surely
 
 For some, the board under the board could be Essom: the shadow cast by the real board, where small Sils fall when Tsoas are pushed into holes. For others, Essom might be the area under the Tsoas, where Sils are hidden. Both views are valid: players search for Sils, but they also keep them hidden. In Essom both sides are experienced at the same time.
 
-The game offers tactical depth, yet it is not a coincidence that memory is such a crucial element of gameplay. Hiding, protecting or searching, in Essom, Sils are the heart of the heart. Remembering or forgetting where Sils are hidden is the starting or ending point for any possible strategy.
-
 <p align="center"  style="margin:30px 0 0 0;">☽ ☼ ☾</p>
 ---
 <p align="center">
@@ -46,10 +44,14 @@ The game offers tactical depth, yet it is not a coincidence that memory is such 
 ---
 <p align="center"  style="margin:0 0 40px 0;">☽ ~~~~~  ☽ ☼ ☾  ~~~~~ ☾</p>
 
-Above all, I believe the game represents the search for the identity of a generation that was stolen, where Tsoas and Sils symbolize families. A Tsoa needs to be cornered and pushed; a Sil needs to fall to be reclaimed, an identity must be broken for another to be restored. This is the puzzle Essom presents: beyond winning or losing, players can choose to explore, reflect, and empathise, or instead center in having fun.
+The game offers tactical depth, yet it is not a coincidence that memory is such a crucial element of gameplay. Hiding, protecting or searching, in Essom, Sils are the heart of the heart. Remembering or forgetting where Sils are hidden is the starting or ending point for any possible strategy.
+
+Above all, I believe the game to be a metaphor where Tsoas and Sils are symbols of families and players search for the identity of a generation that was once stolen. A Tsoa needs to be cornered and pushed, and Sil needs to fall to be reclaimed, just as an identity must be broken for another to be restored. This is the puzzle Essom presents.
 
 <p align="center" style="margin:30px 0 30px 0;">
   <img src="../assets/images/essom2ggc.png" width="95%" style="border:3px solid grey; margin:5px;">
 </p>
+
+In Essom players are invited to have fun and enjoy gameplay, but also to explore, reflect, and empathise.
 
 <p align="center">☾ ☼ ☽</p>
