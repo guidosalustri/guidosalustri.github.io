@@ -46,12 +46,12 @@ The game offers tactical depth, yet it is not a coincidence that memory is such 
 ---
 <p align="center"  style="margin:0 0 40px 0;">☽ ~~~~~  ☽ ☼ ☾  ~~~~~ ☾</p>
 
-Above all, I believe the game to be a metaphor where Tsoas and Sils are symbols of families and players search for the identity of a generation that was once stolen. A Tsoa needs to be cornered and pushed, and a Sil needs to fall to be reclaimed, just as an identity must be broken for another to be restored. In essence, this is the puzzle that Essom presents.
+Above all, I believe the game to be a metaphor where Tsoas and Sils are symbols of families and players search for the identity of a generation that was once stolen. A Tsoa needs to be cornered and pushed, and a Sil needs to fall to be reclaimed, just as an identity must be broken for another to be restored.
 
 <p align="center" style="margin:30px 0 30px 0;">
   <img src="../assets/images/essom2ggc.png" width="95%" style="border:3px solid grey; margin:5px;">
 </p>
 
-After all, in Essom players are invited to have fun and enjoy gameplay, but also to explore, reflect, and empathise.
+In essence, this is the puzzle that Essom presents, where players are invited to have fun and enjoy gameplay, but also to explore, reflect, and empathise.
 
 <p align="center">☾ ☼ ☽</p>
