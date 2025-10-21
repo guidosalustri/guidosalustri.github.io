@@ -1,5 +1,4 @@
 ---
-algolia: false
 title: "Post: Quote"
 categories:
   - Blog
