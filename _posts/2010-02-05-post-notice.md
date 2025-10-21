@@ -1,4 +1,5 @@
 ---
+algolia: false
 title: "Post: Notice"
 categories:
   - Blog
