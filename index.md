@@ -7,16 +7,34 @@ author_profile: true
 ---
 
 <style>
+/* Remove search icon AND the clickable button/link wrapper so it's gone and non-interactable */
 .fa-search,
 .fas.fa-search,
 .fa.fa-search,
 .search-icon,
-.header-search .fa-search,
-.search-toggle .fa-search,
-button.search-toggle,
-a.search-toggle {
+.header-search .fa-search {
   display: none !important;
 }
+
+button.search-toggle,
+a.search-toggle,
+.search-toggle,
+.header-search,
+.site-search,
+.nav-search,
+.header__search {
+  display: none !important;
+  pointer-events: none !important;
+  visibility: hidden !important;
+}
+
+/* Extra safety for pseudo-elements and SVGs */
+.fa-search:before,
+.fas.fa-search:before,
+.fa.fa-search:before { content: none !important; }
+.search-icon svg,
+.search-toggle svg,
+button.search-toggle svg { display: none !important; }
 </style>
   
 <i class="fas fa-fw fa-envelope"></i>&nbsp;<code title="Copy Email" onclick="navigator.clipboard.writeText('g.sabbsal@gmail.com');" style="cursor:pointer;">g.sabbsal@gmail.com</code>
