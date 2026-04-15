@@ -87,15 +87,18 @@ author:
 
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "javascript:navigator.clipboard.writeText('your.email@example.com'); alert('Email copied to clipboard!');"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
     #  url: "https://twitter.com/"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:g.sabbsal@gmail.com"
+    #- label: "Email"
+    #  icon: "fas fa-fw fa-envelope"
+    #  url: "mailto:g.sabbsal@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/guidosalustri"
