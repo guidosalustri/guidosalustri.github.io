@@ -5,12 +5,12 @@
 layout: single
 author_profile: true
 ---
-  
-<i class="fas fa-fw fa-envelope"></i>&nbsp;<code title="Copy Email" onclick="navigator.clipboard.writeText('g.sabbsal@gmail.com');" style="cursor:pointer;">g.sabbsal@gmail.com</code>
 
-~~~
+<i class="fas fa-fw fa-envelope"></i>&nbsp;<code title="Copy Email" onclick="navigator.clipboard.writeText(~~~'g.sabbsal@gmail.com'~~~);" style="cursor:pointer;">g.sabbsal@gmail.com</code>
+
+```
 Hello! Here I’ve selected three games I’ve created. Together, they provide a clear overview of my skills, experience, and versatility. These are award-winning games and have served as case studies for research. Each one focuses on different aspects of game design and requires a different set of skills to craft. Still, I believe they all reflect the same care and dedication, qualities I’m proud to see through all my work.
-~~~
+```
 ¡Hola! I’m Guido, a game developer with a master’s in Game Design from Uppsala University and a background in Biology and Bioinformatics. I’m Argentinean/Italian and have lived and worked in Argentina, Australia, and Sweden. I focus on mobile games, board games, and hybrid experiences that blend analog and digital play, exploring how these formats can combine to create new forms of interaction. I like to think of games not only as entertainment but also as tools for learning, ways to foster social connection, and as a means of artistic expression.
 
 # Projects
