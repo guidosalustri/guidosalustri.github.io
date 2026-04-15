@@ -1,6 +1,6 @@
 main:
-  - title: "About Me"
-    url: /about/
+  #- title: "About Me"
+    #url: /about/
   - title: "ESSOM"
     url: /essom/
   - title: "String Theory"
