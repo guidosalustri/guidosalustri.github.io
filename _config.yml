@@ -63,7 +63,7 @@ author:
   avatar : "/assets/images/cacharro.png"
   bio    : "I make games; games make me.<br><br>&lt;null null null&gt;"
   links:
-    - label: "<code title="Copy Email">g.sabbsal@gmail.com</code>"
+    - label: "<code title='Copy Email'>g.sabbsal@gmail.com</code>"
       icon: "fas fa-fw fa-envelope"
       url: "javascript:navigator.clipboard.writeText('g.sabbsal@gmail.com'); alert('Email copied to clipboard!');"
     - label: "GitHub"
