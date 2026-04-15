@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Guido Salustri"
   avatar : "/assets/images/cacharro.png"
-  bio    : "I make games; games make me.<br><br>&lt;null null null&gt;"
+  bio    : "Games & Experiments made by me.<br><br>&lt;I make games; games make me&gt;"
   links:
     - label: "<code title='Copy Email'>g.sabbsal@gmail.com</code>"
       icon: "fas fa-fw fa-envelope"
