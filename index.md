@@ -42,7 +42,8 @@ I like to think of games not only as entertainment, but also as tools for learni
     <img src="/assets/images/NomineeStamps_BestInShow_Black.png" width="25%" style="border:2px solid black; margin:2px;">
     <br>
   </p>
+  
+  [The Last Vampire](https://guidosalustri.github.io/lastvampire/) is an <a href="https://game.speldesign.uu.se/projects/analog-games/the-last-vampire/" target="_blank" rel="noopener noreferrer">award-winning</a> social deduction board game where players must navigate deception, manage scarce blood resources and outwit their foes to survive. It's available in analog and digital formats, and it's been used as a case study for research both in psychology and <a href="https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1874280&dswid=-253" target="_blank" rel="noopener noreferrer" title="Visit DiVA">game design</a>.
 
+---
 Thanks for visting!! ^.^
-
-    [The Last Vampire](https://guidosalustri.github.io/lastvampire/) is an <a href="https://game.speldesign.uu.se/projects/analog-games/the-last-vampire/" target="_blank" rel="noopener noreferrer">award-winning</a> social deduction board game where players must navigate deception, manage scarce blood resources and outwit their foes to survive. It's available in analog and digital formats, and it's been used as a case study for research both in psychology and <a href="https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1874280&dswid=-253" target="_blank" rel="noopener noreferrer" title="Visit DiVA">game design</a>.
