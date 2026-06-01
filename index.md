@@ -11,11 +11,9 @@ author_profile: true
 
 [Hello! Here I’ve selected three games I’ve created. Together, they provide a clear overview of my skills, experience, and versatility. These are award-winning games and have served as case studies for research. Each one focuses on different aspects of game design and requires a different set of skills to craft. Still, I believe they all reflect the same care and dedication, qualities I’m proud to see through all my work.]:#
 
-¡Hola! I’m Guido, a game developer with a master’s in Game Design from Uppsala University and a background in Biology and Bioinformatics. I’m Argentinean/Italian and have lived and worked in Argentina, Australia, and Sweden. I am passionate about video games, board games, and hybrid experiences that blend analog and digital play, exploring how these formats can combine to create new forms of interaction.
+¡Hola! I’m Guido, a game developer with a master’s in Game Design from Uppsala University and a background in Biology and Bioinformatics. I’m Argentinean/Italian and have lived and worked in Argentina, Australia, and Sweden. I am passionate about video games, board games, and hybrid experiences that blend analogue and digital play, exploring how these formats can combine to create new forms of interaction.
 
 I like to think of games not only as entertainment, but also as tools for learning, ways to foster social connection, and as a means of artistic expression. Two of my games won awards during my studies and have since served as the basis for research publications, something I think speaks of the intentionality I try to bring to design work.
-
-Thanks for visting ^.^
 
 # Projects
 ---
@@ -44,5 +42,7 @@ Thanks for visting ^.^
     <img src="/assets/images/NomineeStamps_BestInShow_Black.png" width="25%" style="border:2px solid black; margin:2px;">
     <br>
   </p>
+
+Thanks for visting!! ^.^
 
     [The Last Vampire](https://guidosalustri.github.io/lastvampire/) is an <a href="https://game.speldesign.uu.se/projects/analog-games/the-last-vampire/" target="_blank" rel="noopener noreferrer">award-winning</a> social deduction board game where players must navigate deception, manage scarce blood resources and outwit their foes to survive. It's available in analog and digital formats, and it's been used as a case study for research both in psychology and <a href="https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1874280&dswid=-253" target="_blank" rel="noopener noreferrer" title="Visit DiVA">game design</a>.
