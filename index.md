@@ -47,4 +47,4 @@ author_profile: true
 
 I am passionate about video games, board games, and hybrid experiences that blend analogue and digital play, exploring how these formats can combine to create new forms of interaction. I like to think of games not only as entertainment, but also as tools for learning, ways to foster social connection, and as a means of artistic expression. Two of my games won awards during my studies and have since served as the basis for research publications, something I think speaks of the intentionality I try to bring to design work.
 
-<code style="float: right; background:black; color:white; padding:2px 4px; border-radius:4px;">Thanks for visting!!! ^(;.;)^</code>
+<code style=" background:#E9DCBE; padding:2px 4px; border-radius:4px;">Thanks for visting!!! ^(;.;)^</code>
