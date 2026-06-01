@@ -11,8 +11,7 @@ author_profile: true
 
 [Hello! Here I’ve selected three games I’ve created. Together, they provide a clear overview of my skills, experience, and versatility. These are award-winning games and have served as case studies for research. Each one focuses on different aspects of game design and requires a different set of skills to craft. Still, I believe they all reflect the same care and dedication, qualities I’m proud to see through all my work.]:#
 
-<code style=" background:#E9DCBE; padding:2px 4px; border-radius:4px;">¡Hola!</code>
-I’m Guido, a game developer with a master’s in Game Design from Uppsala University and a background in Biology and Bioinformatics. I’m Argentinean/Italian and have lived and worked in Argentina, Australia, and Sweden.
+<code style=" background:#E9DCBE; padding:2px 4px; border-radius:4px;">¡Hola! I’m Guido, a game developer with a master’s in Game Design from Uppsala University and a background in Biology and Bioinformatics. I’m Argentinean/Italian and have lived and worked in Argentina, Australia, and Sweden.</code>
 
 # Projects
 ---
